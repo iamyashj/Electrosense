@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+
+{% block start %}
+
+
+<form  action="http://127.0.0.1:8000/prediction/" method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+ 
+<div class="container pt-2 ">
+<div class="col-md-4 mb-3">
+    <label for="inputState" class="form-label">State</label>
+    <select  required name="state" id="inputState" class="form-select">
+      <option selected>Choose...</option>
+      <option > Maharashtra</option>
+      <option>Karnataka</option>
+      <option >Madhya_Pradesh</option>
+      <option >Rajasthan</option>
+      <option >Chhattisgarh</option>
+      <option >Assam</option>
+      <option>Bihar</option>
+      <option>Gujarat</option>
+      <option >Delhi</option>
+      <option >Punjab</option>
+      <option >Haryana</option>
+      <option >Himachal_Pradesh</option>
+      
+      <option >West_Bangal</option>
+      <option >Telegana</option>
+      <option >TamilNadu</option>
+      <option >Kerala</option>
+      <option >Jharkhand</option>
+      <option >Goa</option>
+      <option >Sikkim</option>
+      <option >Nagaland</option>
+      <option >Odisha</option>
+      <option >Mizoram</option>
+      <option >Tripura</option>
+      <option >Manipur</option>
+      <option >Meghalay</option>
+      <option >Andhra_Pradesh</option>
+      <option >Arunachal_Pradesh</option>
+      <option >Jammu_and_kashmir</option>
+    </select>
+</div>
+
+<div class="container">
+<div class="row flex-container">
+<div class="col-6 mb-2">
+  
+<div class="card" style="width:50%;">
+  <div class="card-header text-center">
+    NDA
+  </div>
+  <div class="card-body">
+  
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="BJP" name="NDA" id="flexCheckChecked" title="Bhartiya Janata Party" required>
+    <label class="form-check-label" for="flexCheckChecked" title="Bhartiya Janata Party">
+      BJP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="JDS"  name="NDA" id="flexCheckChecked" title="Janta Dal Secular" >
+    <label class="form-check-label" for="flexCheckChecked" title="Janta Dal Secular">
+      JDS
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="Shivsena"  name="NDA" id="flexCheckChecked" title="Shivsena" >
+    <label class="form-check-label" for="flexCheckChecked" title="Shivsena">
+      shivsena
+    </label>
+  </div>
+  
+</div>
+</div>
+</div>
+<div class="col-6 mb-2 ">
+<div class="card " style="width:50%;" >
+<div class="card-header text-center">
+    UPA
+  </div>
+  <div class="card-body">
+  <div class="form-check">
+    <input class="form-check-input"  name="INDIA" type="checkbox" value="INC" id="flexCheckDefault" title="Indian National Congress" required>
+    <label class="form-check-label" for="flexCheckDefault" title="Indian National Congress">
+      Congress
+    </label>
+  </div>
+  
+  
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="AAP" id="flexCheckChecked" name="INDIA" title="Aam Adami Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Aam Adami Party">
+      AAP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="AAP" id="flexCheckChecked" name="INDIA" title="All India United Democratic Front" >
+    <label class="form-check-label" for="flexCheckChecked" title="All India United Democratic Front">
+      AIUDF
+    </label>
+  </div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-4 mx-auto">
+  <button  class="btn btn-primary btn-lg w-10 " type="submit">Predict</button>
+</div>
+</div>
+</form>
+{% if messages %}
+<ul class="messages">
+    <div class="alert alert-primary" role="alert">
+        {% for message in messages %}
+    <li {% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+    {% endfor %}
+      </div>
+    
+</ul>
+{% endif %}
+
+
+{% endblock start %}

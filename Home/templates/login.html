@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% block start %}
+   <form class="col-6 mx-auto card p-3 shadow-lg width:18rem mt-3 px-3" method="post" enctype="multipart/form-data">
+    <h1>LOGIN</h1>
+    
+     {% csrf_token %}
+     
+     {% if request.user.is_authenticated %}
+      
+     
+      
+     {% if messages %}
+     <ul class="messages">
+         <div class="alert alert-primary" role="alert">
+             {% for message in messages %}
+         <li {% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+         {% endfor %}
+           </div>
+         
+     </ul>
+     {% endif %}
+     {% endif %}
+     
+    <div class="form-group">
+      <label for="exampleInputEmail1">User Name</label>
+      <input type="text"  name="user_name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your username with anyone else.</small>
+    </div>
+    <div class="form-group">
+      <label for="exampleInputPassword1">Password</label>
+      <input type="password"  name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    </div>
+    <p>Don't Have an Account<a href="/register">Register</a><p>
+    
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+   
+{% endblock %}
