@@ -1,0 +1,176 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,YSRCP,TDP,JNP,Strong_Party
+1,Ramachandrapuram,GEN,Amalapuram,75365,70197,,
+2,Mummidivaram,GEN,Amalapuram,78522,72975,,
+3,Amalapuram,SC,Amalapuram,72003,46349,45200,
+4,Razole,SC,Amalapuram,49239,45592,50053,
+5,Gannavaram,SC,Amalapuram,103043,103881,,
+6,Kothapeta,GEN,Amalapuram,82645,78607,,
+7,Mandapeta,GEN,Amalapuram,67429,78029,,
+8,Chodavaram,GEN,Anakapalli,94215,66578,,
+9,Madugula,GEN,Anakapalli,78830,62438,,
+10,Anakapalle,GEN,Anakapalli,73207,65038,,
+11,Pendurthi,GEN,Anakapalli,99759,70899,,
+12,Elamanchili,GEN,Anakapalli,71934,67788,,
+13,Rayadurg,GEN,Anantapur,109043,94994,,YSRCP
+14,Uravakonda,GEN,Anantapur,88077,90209,,
+15,Guntakal,GEN,Anantapur,106922,58390,,YSRCP
+16,Tadipatri,GEN,Anantapur,92911,85400,,
+17,Singanamala,SC,Anantapur,118044,71802,,YSRCP
+18,Anantapur Urban,GEN,Anantapur,88704,60006,,YSRCP
+19,Kalyandurg,GEN,Anantapur,88051,68155,,
+20,Palakonda,ST,Araku,72054,54074,,YSRCP
+21,Kurupam,ST,Araku,74527,47925,,YSRCP
+22,Parvathipuram,SC,Araku,75304,51105,,YSRCP
+23,Salur,ST,Araku,78430,58401,,YSRCP
+24,Araku Valley,ST,Araku,53101,,,YSRCP
+25,Paderu,ST,Araku,71153,,,YSRCP
+26,Rampachodavaram,ST,Araku,98318,59112,,YSRCP
+27,Vemuru,SC,Bapatla,81671,71672,,
+28,Repalle,GEN,Bapatla,78420,89975,,
+29,Bapatla,GEN,Bapatla,79836,64637,,
+30,Parchur,GEN,Bapatla,95429,97076,,
+31,Addanki,GEN,Bapatla,92554,105545,,TDP
+32,Chirala,GEN,Bapatla,66482,83901,,TDP
+33,Santhanuthalapadu,SC,Bapatla,89160,80082,,
+34,Chandragiri,GEN,Chittoor,127790,86035,,YSRCP
+35,Nagari,GEN,Chittoor,80333,77625,,
+36,Gangadhara Nellore,SC,Chittoor,103038,57444,,YSRCP
+37,Chittoor,GEN,Chittoor,91206,51238,,YSRCP
+38,Puthalapattu,SC,Chittoor,103265,74102,,YSRCP
+39,Palamaner,GEN,Chittoor,119241,87625,,YSRCP
+40,Kuppam,GEN,Chittoor,69424,100146,,TDP
+41,Unguturu,GEN,Eluru,94621,61468,,YSRCP
+42,Denduluru,GEN,Eluru,96142,78683,,YSRCP
+43,Eluru,GEN,Eluru,72247,68175,,
+44,Polavaram,ST,Eluru,110523,68453,,YSRCP
+45,Chintalapudi,SC,Eluru,115755,79580,,YSRCP
+46,Nuzvid,GEN,Eluru,101950,85740,,YSRCP
+47,Kaikalur,GEN,Eluru,82128,72771,,
+48,Tadikonda,SC,Guntur,86848,82415,,
+49,Mangalagiri,GEN,Guntur,108464,103127,,
+50,Ponnuru,GEN,Guntur,87570,86458,,
+51,Tenali,GEN,Guntur,94495,76846,,
+52,Prathipadu,SC,Guntur,92508,85110,,
+53,Guntur West,GEN,Guntur,67575,71864,,
+54,Guntur East,GEN,Guntur,77047,54956,,
+55,Raptadu,GEN,Hindupur,111201,85626,,YSRCP
+56,Madakasira,SC,Hindupur,88527,75391,,
+57,Hindupur,GEN,Hindupur,74676,91704,,TDP
+58,Penukonda,GEN,Hindupur,96607,81549,,YSRCP
+59,Puttaparthi,GEN,Hindupur,97234,65979,,YSRCP
+60,Dharmavaram,GEN,Hindupur,10609,91243,,YSRCP
+61,Kadiri,GEN,Hindupur,102432,75189,,YSRCP
+62,Badvel,SC,Kadapa,95482,50748,,YSRCP
+63,Kadapa,GEN,Kadapa,104822,50028,,YSRCP
+64,Pulivendla,GEN,Kadapa,132356,,,YSRCP
+65,Kamalapuram,GEN,Kadapa,88482,61149,,YSRCP
+66,Jammalamadugu,GEN,Kadapa,125005,73364,,YSRCP
+67,Proddatur,GEN,Kadapa,107941,64793,,YSRCP
+68,Mydukur,GEN,Kadapa,94849,65505,,YSRCP
+69,Payakaraopet,SC,Kakinada,98745,67556,,YSRCP
+70,Narsipatnam,GEN,Kakinada,93818,70452,,YSRCP
+71,Tuni,GEN,Kakinada,92459,68443,,YSRCP
+72,Prathipadu,GEN,Kakinada,77103,72492,,
+73,Pithapuram,GEN,Kakinada,83459,68467,,
+74,Kakinada Rural,GEN,Kakinada,74068,65279,39247,
+75,Peddapuram,GEN,Kakinada,63366,67393,,
+76,Kakinada City,GEN,Kakinada,73890,59779,,
+77,Jaggampeta,GEN,Kakinada,93496,70131,,YSRCP
+78,Kurnool,GEN,Kurnool,72819,67466,,
+79,Pattikonda,GEN,Kurnool,100981,58916,,YSRCP
+80,Kodumur,SC,Kurnool,95037,58992,,YSRCP
+81,Yemmiganur,GEN,Kurnool,96498,70888,,YSRCP
+82,Mantralayam,GEN,Kurnool,86896,63017,,YSRCP
+83,Adoni,GEN,Kurnool,74109,61790,,
+84,Alur,GEN,Kurnool,10701,67205,,YSRCP
+85,Gannavaram,GEN,Machilipatnam,103043,103881,,
+86,Gudivada,GEN,Machilipatnam,89833,70354,,YSRCP
+87,Pedana,GEN,Machilipatnam,61920,54081,,
+88,Machilipatnam,GEN,Machilipatnam,66141,60290,,
+89,Avanigadda,GEN,Machilipatnam,78445,57720,,
+90,Pamarru,SC,Machilipatnam,88547,57674,,YSRCP
+91,Penamaluru,GEN,Machilipatnam,101485,90168,,
+92,Allagadda,GEN,Nandyal,105905,70292,,YSRCP
+93,Srisailam,GEN,Nandyal,92236,53538,,YSRCP
+94,Nandikotkur,SC,Nandyal,102565,61955,,YSRCP
+95,Panyam,GEN,Nandyal,122476,78619,,YSRCP
+96,Nandyal,GEN,Nandyal,108868,74308,,
+97,Banaganapalle,GEN,Nandyal,99998,86614,,YSRCP
+98,Dhone,GEN,Nandyal,100845,65329,,YSRCP
+99,Pedakurapadu,GEN,Narasaraopet,99577,85473,,
+100,Chilakaluripet,GEN,Narasaraopet,94430,86129,,YSRCP
+101,Narasaraopet,GEN,Narasaraopet,100994,68717,,
+102,Sattenapalle,GEN,Narasaraopet,105063,84187,,YSRCP
+103,Vinukonda,GEN,Narasaraopet,120703,92075,,YSRCP
+104,Gurajala,GEN,Narasaraopet,117204,88591,,YSRCP
+105,Macherla,GEN,Narasaraopet,110406,88488,,YSRCP
+106,Achanta,GEN,Narsapuram,66494,53608,,
+107,Palakollu,GEN,Narsapuram,49740,67549,,
+108,Narsapuram,GEN,Narsapuram,55556,49120,,
+109,Bhimavaram,GEN,Narsapuram,70642,54037,62285,
+110,Undi,GEN,Narsapuram,71781,82730,,
+111,Tanuku,GEN,Narsapuram,75975,73780,,
+112,Tadepalligudem,GEN,Narsapuram,70741,54275,,
+113,Kandukur,GEN,Nellore,101275,86339,,YSRCP
+114,Kavali,GEN,Nellore,95828,81711,,
+115,Atmakur,GEN,Nellore,92758,70482,,YSRCP
+116,Kovur,GEN,Nellore,116239,76348,,YSRCP
+117,Nellore City,GEN,Nellore,75040,73052,,
+118,Nellore Rural,GEN,Nellore,85724,64948,,YSRCP
+119,Udayagiri,GEN,Nellore,106487,69959,,YSRCP
+120,Yerragondapalem,SC,Ongole,99408,67776,,YSRCP
+121,Darsi,GEN,Ongole,111914,72857,,YSRCP
+122,Ongole,GEN,Ongole,101022,78777,,YSRCP
+123,Kondapi,SC,Ongole,97118,98142,,
+124,Markapuram,GEN,Ongole,92680,74013,,YSRCP
+125,Giddalur,GEN,Ongole,133111,,,YSRCP
+126,Kanigiri,GEN,Ongole,112730,71827,,YSRCP
+127,Anaparthy,GEN,Rajahmundry,111771,,,YSRCP
+128,Rajanagaram,GEN,Rajahmundry,90680,58908,,YSRCP
+129,Rajahmundry City,GEN,Rajahmundry,53637,83702,,TDP
+130,Rajahmundry Rural,GEN,Rajahmundry,63762,74166,,
+131,Kovvur,SC,Rajahmundry,79892,54644,,YSRCP
+132,Nidadavole,GEN,Rajahmundry,81001,59313,,
+133,Gopalapuram,SC,Rajahmundry,111785,74324,,YSRCP
+134,Rajampet,GEN,Rajampet,95266,59994,,YSRCP
+135,Kodur,SC,Rajampet,78312,43433,,YSRCP
+136,Rayachoti,GEN,Rajampet,98990,66128,,YSRCP
+137,Thamballapalle,GEN,Rajampet,105444,58506,,YSRCP
+138,Pileru,GEN,Rajampet,87300,79426,,
+139,Madanapalle,GEN,Rajampet,92066,62418,,YSRCP
+140,Punganur,GEN,Rajampet,107431,63876,,YSRCP
+141,Ichchapuram,GEN,Srikakulam,72847,79992,,
+142,Palasa,GEN,Srikakulam,76603,60356,,YSRCP
+143,Tekkali,GEN,Srikakulam,79113,87658,,TDP
+144,Pathapatnam,GEN,Srikakulam,76941,61390,,YSRCP
+145,Srikakulam,GEN,Srikakulam,84084,78307,,
+146,Amadalavalasa,GEN,Srikakulam,77897,63906,,YSRCP
+147,Narasannapeta,GEN,Srikakulam,86797,67242,,YSRCP
+148,Sarvepalli,GEN,Tirupati,97272,83299,,YSRCP
+149,Gudur,SC,Tirupati,109759,64301,,YSRCP
+150,Sullurpeta,SC,Tirupati,119627,58335,,YSRCP
+151,Venkatagiri,GEN,Tirupati,109204,70484,,YSRCP
+152,Tirupati,GEN,Tirupati,80544,79836,,
+153,Srikalahasti,GEN,Tirupati,109541,71400,,YSRCP
+154,Sathyavedu,SC,Tirupati,103941,59197,,YSRCP
+155,Tiruvuru,SC,Vijayawada,89118,78283,,YSRCP
+156,Vijayawada West,GEN,Vijayawada,,58435,50764,
+157,Vijayawada Central,GEN,Vijayawada,70721,70696,,
+158,Vijayawada East,GEN,Vijayawada,67826,82990,,
+159,Mylavaram,GEN,Vijayawada,114940,102287,,
+160,Nandigama,SC,Vijayawada,87493,76612,,
+161,Jaggayyapeta,GEN,Vijayawada,87965,83187,,
+162,Srungavarapukota,GEN,Visakhapatnam,91451,80086,,
+163,Bhimili,GEN,Visakhapatnam,101629,91917,,
+164,Visakhapatnam East,GEN,Visakhapatnam,60599,87073,,YSRCP
+165,Visakhapatnam South,GEN,Visakhapatnam,48443,52172,,
+166,Visakhapatnam North,GEN,Visakhapatnam,65408,67352,,
+167,Visakhapatnam West,GEN,Visakhapatnam,49718,68699,,
+168,Gajuwaka,GEN,Visakhapatnam,75292,56642,58539,
+169,Etcherla,GEN,Vizianagaram,106672,80961,,YSRCP
+170,Rajam,SC,Vizianagaram,83561,66713,,YSRCP
+171,Bobbili,GEN,Vizianagaram,84955,76603,,
+172,Cheepurupalli,GEN,Vizianagaram,89262,62764,,YSRCP
+173,Gajapathinagaram,GEN,Vizianagaram,92370,66259,,YSRCP
+174,Nellimarla,GEN,Vizianagaram,94258,66207,,YSRCP
+175,Vizianagaram,GEN,Vizianagaram,78849,72432,,

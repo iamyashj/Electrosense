@@ -1,0 +1,41 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,MGP,BJP,INC,AITC,RGP,AAP,GFP,Independent,Strong_Party
+1,Mandrem,GEN,North_Goa,10837,9672,,,,,,5811,MGP
+2,Pernem,SC,North_Goa,9645,13063,,,,,,,BJP
+3,Bicholim,GEN,North_Goa,9290,5141,,,,,,9608,Independent
+4,Tivim,GEN,North_Goa,,9414,,7363,5051,,,,BJP
+5,Mapusa,GEN,North_Goa,,10195,8548,,,,,,BJP
+6,Siolim,GEN,North_Goa,,7972,9699,,,,,,INC
+7,Saligao,GEN,North_Goa,,8146,10045,,,,,,INC
+8,Calangute,GEN,North_Goa,,4306,9285,,,,,,INC
+9,Porvorim,GEN,North_Goa,,11714,,,,,,,BJP
+10,Aldona,GEN,North_Goa,,7497,9320,,,,,,INC
+11,Panaji,GEN,North_Goa,,6787,,,,,,6071,BJP
+12,Taleigao,GEN,North_Goa,,10167,8126,,,,,,BJP
+13,Santa Cruz,GEN,North_Goa,,6377,8841,,,4098,,,INC
+14,St. Andre,GEN,North_Goa,,5319,,,5395,,,,RGP
+15,Cumbarjua,GEN,North_Goa,,3949,6776,,,,,,INC
+16,Maem,GEN,North_Goa,,7874,,,3974,,4738,,BJP
+17,Sanquelim,GEN,North_Goa,,12250,11584,,,,,,BJP
+18,Poriem,GEN,North_Goa,,17816,,,,,,,BJP
+19,Valpoi,GEN,North_Goa,,14462,,,6377,,,,BJP
+20,Priol,GEN,North_Goa,10806,11019,,,,,,,BJP
+21,Ponda,GEN,North_Goa,7437,7514,6839,,,,,,BJP
+22,Siroda,GEN,North_Goa,,8307,,,5063,6133,,,BJP
+23,Marcaim,GEN,North_Goa,13963,,,,,,,,MGP
+24,Mormugao,GEN,South_Goa,,7126,9067,,,,,,INC
+25,Vasco Da Gama,GEN,South_Goa,,13118,9461,,,,,,BJP
+26,Dabolim,GEN,South_Goa,,7594,6024,,,,,,BJP
+27,Cortalim,GEN,South_Goa,,,4344,,,,,5522,Independent
+28,Nuvem,GEN,South_Goa,,,8745,,4348,,,,INC
+29,Curtorim,GEN,South_Goa,,,3905,,3479,,,8960,Independent
+30,Fatorda,GEN,South_Goa,,9536,,,,,11063,,GFP
+31,Margao,GEN,South_Goa,,5880,13674,,,,,,INC
+32,Benaulim,GEN,South_Goa,,,4697,5140,,6411,,,AAP
+33,Navelim,GEN,South_Goa,,5168,,4738,,,,,BJP
+34,Cuncolim,GEN,South_Goa,,6632,9866,,,,,,INC
+35,Velim,GEN,South_Goa,,,5221,,,5390,,,AAP
+36,Quepem,GEN,South_Goa,,11393,14994,,,,,,INC
+37,Curchorem,GEN,South_Goa,,9973,9301,,,,,,BJP
+38,Sanvordem,GEN,South_Goa,,11877,,,,,,6687,BJP
+39,Sanguem,GEN,South_Goa,,8724,4644,,,,,7295,BJP
+40,Canacona,GEN,South_Goa,,9063,5351,,,,,6012,BJP

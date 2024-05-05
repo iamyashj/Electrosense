@@ -1,0 +1,127 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,BJP,INC,AIUDF,AGP,UPPL,BOPF,CPI(M),AJP,Independent,Strong_Party
+1,Haflong,ST,Autonomous District,67797,49199,,,,,,,,BJP
+2,Bokajan,ST,Autonomous District,60726,42841,,,,,,,,BJP
+3,Howraghat,ST,Autonomous District,57927,26244,,,,,,,,BJP
+4,Diphu,ST,Autonomous District,77032,36504,,,,,,,,BJP
+5,Baithalangso,ST,Autonomous District,89715,36278,,,,,,,,BJP
+6,Bongaigaon,GEN,Barpeta,,44633,,82800,,,,,,AGP
+7,Abhayapuri North,GEN,Barpeta,,93276,,60495,,,,,,INC
+8,Abhayapuri South,SC,Barpeta,,112954,,65869,,,,,,INC
+9,Patacharkuchi,GEN,Barpeta,81824,,,,,,,,,BJP
+10,Barpeta,GEN,Barpeta,,111083,,66364,,,,,,INC
+11,Jania,GEN,Barpeta,,,156183,,,,,,,AIUDF
+12,Baghbar,GEN,Barpeta,,79357,65415,,,,,,,INC
+13,Sarukhetri,GEN,Barpeta,,77045,44805,47504,,,,,,
+14,Chenga,GEN,Barpeta,,,75312,,,,,,,AIUDF
+15,Dharmapur,GEN,Barpeta,68362,43328,,,,,,,,BJP
+16,Mankachar,GEN,Dhubri,,,125873,69033,,,,,,AIUDF
+17,Salmara South,GEN,Dhubri,,146248,,,,,,,,INC
+18,Dhubri,GEN,Dhubri,46100,,123913,,,,,,,AIUDF
+19,Gauripur,GEN,Dhubri,63349,,112194,,,,,,,AIUDF
+20,Golakganj,GEN,Dhubri,79171,89870,,,,,,,,
+21,Bilasipara West,GEN,Dhubri,,,90529,,,,,,30771,AIUDF
+22,Bilasipara East,GEN,Dhubri,66768,,116068,,,,,,,AIUDF
+23,Goalpara East,GEN,Dhubri,,112995,,67747,,,,,,INC
+24,Goalpara West,GEN,Dhubri,,85752,,39728,,,,,,INC
+25,Jaleswar,GEN,Dhubri,,76062,54046,,,,,,,INC
+26,Moran,GEN,Dibrugarh,55604,33263,,,,,,,,BJP
+27,Dibrugarh,GEN,Dibrugarh,68762,30757,,,,,,,,BJP
+28,Lahowal,GEN,Dibrugarh,59295,42047,,,,,,,,
+29,Duliajan,GEN,Dibrugarh,54762,46652,,,,,,,,
+30,Tingkhong,GEN,Dibrugarh,62675,34281,,,,,,,,BJP
+31,Naharkatia,GEN,Dibrugarh,47268,32292,,,,,,,,
+32,Tinsukia,GEN,Dibrugarh,85857,,,,,,,,,BJP
+33,Digboi,GEN,Dibrugarh,59217,32241,,,,,,,,BJP
+34,Margherita,GEN,Dibrugarh,86640,,,,,,,,,BJP
+35,Dudhnai,ST,Gauhati,77275,78551,,,,,,,,
+36,Boko,SC,Gauhati,,120613,,68147,,,,,,INC
+37,Chaygaon,GEN,Gauhati,,93864,,65820,,,,,,INC
+38,Palasbari,GEN,Gauhati,68311,,,,,,,,,BJP
+39,Jalukbari,GEN,Gauhati,130762,,,,,,,,,BJP
+40,Dispur,GEN,Gauhati,196043,74386,,,,,,,,BJP
+41,Gauhati East,GEN,Gauhati,113461,,,,,,,,,BJP
+42,Gauhati West,GEN,Gauhati,,59084,,137533,,,,,,AGP
+43,Hajo,GEN,Gauhati,66156,,,,,,,51797,,
+44,Barkhetri,GEN,Gauhati,81772,85826,,,,,,,,
+45,Jorhat,GEN,Jorhat,68321,61833,,,,,,,,
+46,Titabar,GEN,Jorhat,50924,64303,,,,,,,,INC
+47,Mariani,GEN,Jorhat,55489,,,,,,,,,BJP
+48,Teok,GEN,Jorhat,,46205,,47555,,,,,,
+49,Amguri,GEN,Jorhat,,43712,,49891,,,,,,
+50,Nazira,GEN,Jorhat,51704,52387,,,,,,,,
+51,Mahmara,GEN,Jorhat,51282,38147,,,,,,,,
+52,Sonari,GEN,Jorhat,69690,54573,,,,,,,,
+53,Thowra,GEN,Jorhat,54956,,,,,,,,,BJP
+54,Sibsagar,GEN,Jorhat,45344,,,,,,,,57219,
+55,Dhing,GEN,Kaliabor,,,145888,,,,,,42921,AIUDF
+56,Batadroba,GEN,Kaliabor,51458,84278,,,,,,,,INC
+57,Rupohihat,GEN,Kaliabor,,132091,,,,,,,,INC
+58,Samaguri,GEN,Kaliabor,55025,81123,,,,,,,,BJP
+59,Kaliabor,GEN,Kaliabor,,44957,,73677,,,,,,AGP
+60,Bokakhat,GEN,Kaliabor,,,,72930,,,,,,AGP
+61,Sarupathar,GEN,Kaliabor,107090,67731,,,,,,,,BJP
+62,Golaghat,GEN,Kaliabor,81651,72326,,,,,,,,BJP
+63,Khumtai,GEN,Kaliabor,65655,38522,,,,,,,,
+64,Dergaon,SC,Kaliabor,,51546,,64043,,,,,,
+65,Ratabari,SC,Karimganj,84711,48490,,,,,,,,BJP
+66,Patharkandi,GEN,Karimganj,74846,70379,,,,,,,,BJP
+67,Karimganj North,GEN,Karimganj,52674,60998,,,,,,,,
+68,Karimganj South,GEN,Karimganj,56422,88909,,,,,,,,INC
+69,Badarpur,GEN,Karimganj,50504,,74452,,,,,,,AIUDF
+70,Hailakandi,GEN,Karimganj,47303,,71057,,,,,,,
+71,Katlicherra,GEN,Karimganj,66798,,79769,,,,,,,AIUDF
+72,Algapur,GEN,Karimganj,49181,,66785,,,,,,,
+73,Gossaigaon,GEN,Kokrajhar,,30517,,,58769,,,,,
+74,Kokrajhar West,ST,Kokrajhar,,,,,65438,77509,,,,BOPF
+75,Kokrajhar East,ST,Kokrajhar,,,,,83515,63420,,,,UPPL
+76,Sidli,ST,Kokrajhar,,,,,97087,65767,,,,UPPL
+77,Bijni,GEN,Kokrajhar,45733,,,,35582,44730,,,,
+78,Sorbhog,GEN,Kokrajhar,85872,,,,,,96134,,,CPI(M)
+79,Bhabanipur,GEN,Kokrajhar,64200,38559,,,,,,,,BJP
+80,Tamulpur,GEN,Kokrajhar,,,,,86678,,,,,UPPL
+81,Barama,ST,Kokrajhar,,,,,62385,38613,,,,
+82,Chapaguri,ST,Kokrajhar,,,,,61804,35065,,,,
+83,Majuli,ST,Lakhimpur,67242,,,,,,,,,BJP
+84,Naoboicha,GEN,Lakhimpur,,52905,,35279,,,,,49292,
+85,Lakhimpur,GEN,Lakhimpur,70387,67351,,,,,,,,
+86,Dhakuakhana,ST,Lakhimpur,86382,76786,,,,,,,,BJP
+87,Dhemaji,ST,Lakhimpur,87681,44832,,,,,,56889,,
+88,Jonai,ST,Lakhimpur,168411,57424,,,,,,,,BJP
+89,Chabua,GEN,Lakhimpur,,34824,,53554,,,,,,
+90,Doom Dooma,GEN,Lakhimpur,49119,40981,,,,,,,,
+91,Sadiya,GEN,Lakhimpur,64855,42771,,,,,,,,
+92,Kamalpur,GEN,Mangaldoi,81083,62969,,,,,,,,BJP
+93,Rangia,GEN,Mangaldoi,84844,,,,,,64624,,,BJP
+94,Nalbari,GEN,Mangaldoi,106190,56733,,,,,,,,BJP
+95,Panery,GEN,Mangaldoi,72639,,,,,36787,,,,BJP
+96,Kalaigaon,GEN,Mangaldoi,53713,,,,,60815,,,,
+97,Sipajhar,GEN,Mangaldoi,74739,67605,,,,,,,,BJP
+98,Mangaldoi,SC,Mangaldoi,87032,111386,,,,,,,,INC
+99,Dalgaon,GEN,Mangaldoi,,62959,118342,,,,,,,AIUDF
+100,Udalguri,ST,Mangaldoi,,,,,61767,56916,,,,UPPL
+101,Majbat,GEN,Mangaldoi,38352,,,,,54409,,,,
+102,Jagiroad,SC,Nowgong,106643,77239,,,,,,,,BJP
+103,Marigaon,GEN,Nowgong,81657,,,,,,,45125,,BJP
+104,Laharighat,GEN,Nowgong,34732,60932,,,,,,,58904,
+105,Raha,SC,Nowgong,,89511,,76453,,,,,,INC
+106,Nowgong,GEN,Nowgong,81098,70015,,,,,,,,BJP
+107,Barhampur,GEN,Nowgong,70111,69360,,,,,,,,
+108,Jamunamukh,GEN,Nowgong,,,136902,,,,,,,AIUDF
+109,Hojai,GEN,Nowgong,125790,92008,,,,,,,,BJP
+110,Lumding,GEN,Nowgong,89108,77377,,,,,,,,BJP
+111,Silchar,GEN,Silchar,98558,60980,,,,,,,,BJP
+112,Sonai,GEN,Silchar,52283,,7937,,,,,,,
+113,Dholai,SC,Silchar,82568,62176,,,,,,,,BJP
+114,Udharbond,GEN,Silchar,61748,59060,,,,,,,,
+115,Lakhipur,GEN,Silchar,55341,42641,,,,,,,,
+116,Barkhola,GEN,Silchar,57402,64433,,,,,,,,INC
+117,Katigora,GEN,Silchar,76329,83268,,,,,,,,INC
+118,Dhekiajuli,GEN,Tezpur,93768,58698,,,,,,,,BJP
+119,Barchalla,GEN,Tezpur,70569,52787,,,,,,,,BJP
+120,Tezpur,GEN,Tezpur,,61331,,71545,,,,,,
+121,Rangapara,GEN,Tezpur,70172,47827,,,,,,,,BJP
+122,Sootea,GEN,Tezpur,84807,60432,,,,,,,,BJP
+123,Biswanath,GEN,Tezpur,71201,61991,,,,,,,,BJP
+124,Behali,GEN,Tezpur,53583,,,,,,,,,BJP
+125,Gohpur,GEN,Tezpur,93224,63930,,,,,,,,BJP
+126,Bihpuria,GEN,Tezpur,58979,48801,,,,,,,,

@@ -1,0 +1,71 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,BJP,INC,BSP,AAP,UKKD,ASP(KR),UJP,Independent,Strong_Party
+48,Dwarahat,GEN,Almora,17584,17766,,,9804,,,,INC
+49,Salt,GEN,Almora,22393,18705,,,,,,,BJP
+50,Ranikhet,GEN,Almora,21047,18463,,,,,,,BJP
+51,Someshwar,SC,Almora,26161,20868,,,,,,,BJP
+52,Almora,GEN,Almora,24312,24439,,,,,,,INC
+53,Jageshwar,GEN,Almora,27530,21647,,,,,,,BJP
+46,Kapkot,GEN,Almora,31275,27229,,,,,,,BJP
+47,Bageshwar,SC,Almora,33247,30842,,,,,,,BJP
+54,Lohaghat,GEN,Almora,26912,32950,,,,,,,INC
+55,Champawat,GEN,Almora,58258,,,,,,,,BJP
+42,Dharchula,GEN,Almora,25889,27007,,,,,,,INC
+43,Didihat,GEN,Almora,20594,14298,,,,,,17368,BJP
+44,Pithoragarh,GEN,Almora,27215,33269,,,,,,,INC
+45,Gangolihat,SC,Almora,32296,22243,,,,,,,BJP
+4,Badrinath,GEN,Garhwal,30595,32661,,,,,,,INC
+5,Tharali,SC,Garhwal,32852,24550,,,,,,,BJP
+6,Karnaprayag,GEN,Garhwal,28911,22196,,,,,,,BJP
+61,Ramnagar,GEN,Garhwal,31094,26349,,,,,,16843,BJP
+36,Yamkeshwar,GEN,Garhwal,28390,17980,,,,,,,BJP
+37,Pauri,SC,Garhwal,25865,20127,,,,,,,BJP
+38,Srinagar,GEN,Garhwal,29618,29031,,,,,,,BJP
+39,Chaubattakhal,GEN,Garhwal,20921,13567,,,,,,,BJP
+40,Lansdowne,GEN,Garhwal,13567,14636,,,,,,,BJP
+41,Kotdwar,GEN,Garhwal,32103,28416,,,,,,12484,BJP
+7,Kedarnath,GEN,Garhwal,21886,12557,,,,,,13423,BJP
+8,Rudraprayag,GEN,Garhwal,29660,19858,,,,,,,BJP
+10,Devprayag,GEN,Garhwal,17330,13585,,,14742,,,,BJP
+11,Narendranagar,GEN,Garhwal,27430,25632,,,,,,,BJP
+18,Dharampur,GEN,Haridwar,58538,48448,,,,,,,BJP
+23,Doiwala,GEN,Haridwar,64946,35925,,,,,,,BJP
+24,Rishikesh,GEN,Haridwar,52460,33403,,,,,,,BJP
+25,Haridwar,GEN,Haridwar,53147,37910,,,,,,,BJP
+26,BHEL Ranipur,GEN,Haridwar,57544,43682,,,,,,,BJP
+27,Jwalapur,SC,Haridwar,29029,42372,14760,,,,,,INC
+28,Bhagwanpur,SC,Haridwar,12067,44808,39997,,,,,,INC
+29,Jhabrera,SC,Haridwar,31436,39652,17804,,,,,,INC
+30,Piran Kaliyar,GEN,Haridwar,27796,43539,11716,,,11441,,,INC
+31,Roorkee,GEN,Haridwar,36986,34709,,,,,,,BJP
+32,Khanpur,GEN,Haridwar,30834,,,,,,,38767,Independent
+33,Manglaur,GEN,Haridwar,18763,32062,32660,,,,,,BSP
+34,Laksar,GEN,Haridwar,24459,11584,34899,,,,,,BSP
+35,Haridwar Rural,GEN,Haridwar,45556,50028,,,,,,,INC
+56,Lalkuan,GEN,Nainital–Udhamsingh Nagar,46307,28780,,,,,,,BJP
+57,Bhimtal,GEN,Nainital–Udhamsingh Nagar,25632,15788,,,,,,12508,BJP
+58,Nainital,SC,Nainital–Udhamsingh Nagar,31770,23889,,,,,,,BJP
+59,Haldwani,GEN,Nainital–Udhamsingh Nagar,42302,50116,,,,,,,INC
+60,Kaladhungi,GEN,Nainital–Udhamsingh Nagar,67847,43916,,,,,,,BJP
+62,Jaspur,GEN,Nainital–Udhamsingh Nagar,38714,42886,,,,,,,INC
+63,Kashipur,GEN,Nainital–Udhamsingh Nagar,48508,32173,,16074,,,,,BJP
+64,Bajpur,SC,Nainital–Udhamsingh Nagar,38641,40252,,20100,,,,,INC
+65,Gadarpur,GEN,Nainital–Udhamsingh Nagar,52841,27424,26115,,,,,,BJP
+66,Rudrapur,GEN,Nainital–Udhamsingh Nagar,60602,40852,,,,,,26988,
+67,Kichha,GEN,Nainital–Udhamsingh Nagar,39475,49552,,,,,,,INC
+68,Sitarganj,GEN,Nainital–Udhamsingh Nagar,43354,32416,,10135,,,,,
+69,Nanakmatta,ST,Nainital–Udhamsingh Nagar,35726,48746,,,,,,,BJP
+70,Khatima,GEN,Nainital–Udhamsingh Nagar,41598,48177,,,,,,,INC
+15,Chakrata,ST,Tehri Garhwal,27417,36853,,,,,,,INC
+16,Vikasnagar,GEN,Tehri Garhwal,40819,35626,,,,,,,BJP
+17,Sahaspur,GEN,Tehri Garhwal,64008,55653,,,,,,,BJP
+19,Raipur,GEN,Tehri Garhwal,65756,35704,,,,,,,BJP
+20,Rajpur Road,SC,Tehri Garhwal,37027,25864,,,,,,,BJP
+21,Dehradun Cantonment,GEN,Tehri Garhwal,45492,24554,,,,,,,BJP
+22,Mussoorie,GEN,Tehri Garhwal,44847,29522,,,,,,,BJP
+9,Ghansali,SC,Tehri Garhwal,20949,10664,,,,,,9204,BJP
+12,Pratapnagar,GEN,Tehri Garhwal,16790,19131,,,,,,4842,BJP
+13,Tehri,GEN,Tehri Garhwal,19802,,,,,,18851,,BJP
+14,Dhanaulti,GEN,Tehri Garhwal,22827,18143,,,,,,12644,BJP
+1,Purola,SC,Tehri Garhwal,27856,21560,,,,,,,BJP
+2,Yamunotri,GEN,Tehri Garhwal,10620,16313,,,,,,22952,Independent
+3,Gangotri,GEN,Tehri Garhwal,29619,21590,,6161,,,,,BJP

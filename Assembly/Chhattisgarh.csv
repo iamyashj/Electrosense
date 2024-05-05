@@ -1,0 +1,91 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,BJP,INC,GGP,JCC,BSP,CPI,Independent,Strong_Party
+1,Kondagaon,ST,Bastar,80465,61893,,,,,,BJP
+2,Narayanpur,ST,Bastar,68776,49580,,,,,,
+3,Bastar,ST,Bastar,61967,68401,,,,,,
+4,Jagdalpur,GEN,Bastar,90336,60502,,,,,,BJP
+5,Chitrakot,ST,Bastar,63954,55584,,,,,,
+6,Dantewada,ST,Bastar,57739,40936,,,,,,
+7,Bijapur,ST,Bastar,33033,35739,,,,,,
+8,Konta,ST,Bastar,30795,32776,,,,29040,,
+9,Kota,GEN,Bilaspur,65522,73479,,,,,,
+10,Lormi,GEN,Bilaspur,75070,,,,,,,
+11,Mungeli ,SC,Bilaspur,85429,73648,,,,,,
+12,Takhatpur,GEN,Bilaspur,90978,76086,,,,,,BJP
+13,Bilha,GEN,Bilaspur,100346,91389,,,,,,
+14,Bilaspur,GEN,Bilaspur,83022,54063,,,,,,BJP
+15,Beltara,GEN,Bilaspur,79528,62565,,,,,,
+16,Masturi ,SC,Bilaspur,75356,95497,,,,,,
+17,Patan,GEN,Durg,75715,95438,,,,,,INC
+18,Durg Rural,GEN,Durg,87175,70533,,,,,,BJP
+19,Durg City,GEN,Durg,97906,49209,,,,,,BJP
+20,Bhilai Nagar,GEN,Durg,53141,54405,,,,,,
+21,Vaishali Nagar,GEN,Durg,98272,58198,,,,,,BJP
+22,Ahiwara ,SC,Durg,96717,71454,,,,,,BJP
+23,Saja,GEN,Durg,101789,96593,,,,,,
+24,Bemetara,GEN,Durg,97731,88597,,,,,,
+25,Nawagarh ,SC,Durg,101631,86454,,,,,,BJP
+26,Akaltara,GEN,Janjgir–Champa,57285,80043,,,,,,
+27,Janjgir-Champa,GEN,Janjgir–Champa,65929,72900,,,,,,
+28,Sakti,GEN,Janjgir–Champa,69124,81519,,,,,,INC
+29,Chandrapur,GEN,Janjgir–Champa,69549,85525,,,,,,
+30,Jaijaipur,GEN,Janjgir–Champa,50825,76747,,,,,,
+31,Pamgarh ,SC,Janjgir–Champa,47789,63963,,,,,,
+32,Bilaigarh ,SC,Janjgir–Champa,63708,81647,,,61920,,,
+33,Kasdol,GEN,Janjgir–Champa,102597,136362,,,,,,INC
+34,Sihawa ,ST,Kanker,71725,84891,,,,,,
+35,Sanjari-Balod,GEN,Kanker,67603,84649,,,,,,
+36,Dondi Lohara ,ST,Kanker,67183,102762,,,,,,INC
+37,Gunderdehi,GEN,Kanker,88328,103191,,,,,,INC
+38,Antagarh ,ST,Kanker,59547,35837,,,,,,
+39,Bhanupratappur ,ST,Kanker,52999,83931,,,,,,INC
+40,Kanker ,ST,Kanker,67980,97964,,,,,,
+41,Keshkal,ST,Kanker,77438,71878,,,,,,
+42,Bharatpur-Sonhat,ST,Korba,55809,50890,33863,,,,,
+43,Manendragarh,GEN,Korba,48503,36632,,,,,,
+44,Baikunthpur,GEN,Korba,66311,41453,,,,,,
+45,Rampur ,ST,Korba,70788,93647,,,,,,INC
+46,Korba,GEN,Korba,92029,66400,,,,,,BJP
+47,Katghora,GEN,Korba,73680,56780,,,,,,
+48,Pali-Tanakhar ,ST,Korba,46522,60148,60862,,,,,
+49,Marwahi ,ST,Korba,51960,39221,,39882,,,,
+50,Saraipali ,SC,Mahasamund,58615,100503,,,,,,INC
+51,Basna,GEN,Mahasamund,108871,72078,,,,,,BJP
+52,Khallari,GEN,Mahasamund,66993,104052,,,,,,INC
+53,Mahasamund,GEN,Mahasamund,84594,68442,,,,,,BJP
+54,Rajim,GEN,Mahasamund,96423,84512,,,,,,BJP
+55,Bindrawagarh ,SC,Mahasamund,91823,92639,,,,,,
+56,Kurud,GEN,Mahasamund,94712,86622,,,,,,BJP
+57,Dhamtari,GEN,Mahasamund,85938,88544,,,,,,
+58,Jashpur ,ST,Raigarh,89103,71458,,,,,,
+59,Kunkuri ,ST,Raigarh,87604,62063,,,,,,BJP
+60,Pathalgaon ,ST,Raigarh,82320,82065,,,,,,
+61,Lailunga ,ST,Raigarh,80490,84666,,,,,,
+62,Raigarh,GEN,Raigarh,129134,64691,,,,,,BJP
+63,Sarangarh ,SC,Raigarh,79789,109484,,,,,,INC
+64,Kharsia,GEN,Raigarh,79332,100988,,,,,,INC
+65,Dharamjaigarh ,ST,Raigarh,80856,90493,,,,,,
+66,Baloda Bazar,GEN,Raipur,108381,93635,,,,,,
+67,Bhatapara,GEN,Raipur,82750,94066,,,,,,
+68,Dharsiwa,GEN,Raipur,107283,62940,,,,,,BJP
+69,Raipur Rural,GEN,Raipur,113032,77282,,,,,,BJP
+70,Raipur City West,GEN,Raipur,98938,57709,,,,,,BJP
+71,Raipur City North,GEN,Raipur,54279,31225,,,,,22939,
+72,Raipur City South,GEN,Raipur,109263,41544,,,,,,BJP
+73,Arang ,SC,Raipur,94039,77501,,,,,,BJP
+74,Abhanpur,GEN,Raipur,93295,77742,,,,,,BJP
+75,Pandariya,GEN,Rajnandgaon,120847,94449,,,,,,INC
+76,Kawardha,GEN,Rajnandgaon,144257,104665,,,,,,BJP
+77,Khairagarh,GEN,Rajnandgaon,84070,89704,,,,,,
+78,Dongargarh ,SC,Rajnandgaon,74778,89145,,,,,,INC
+79,Rajnandgaon,GEN,Rajnandgaon,102499,57415,,,,,,BJP
+80,Dongargaon,GEN,Rajnandgaon,78690,81479,,,,,,
+81,Khujji,GEN,Rajnandgaon,54521,80465,,,,,,INC
+82,Mohla-Manpur ,ST,Rajnandgaon,45713,77454,,,,,,INC
+83,Premnagar,GEN,Sarguja,99957,66667,,,,,,BJP
+84,Bhatgaon,GEN,Sarguja,105162,61200,,,,,,BJP
+85,Pratappur ,ST,Sarguja,83796,72088,,,,,,
+86,Ramanujganj ,ST,Sarguja,99574,69911,,,,,,BJP
+87,Samri,GEN,Sarguja,83483,69540,,,,,,
+88,Lundra ,ST,Sarguja,87463,63335,,,,,,BJP
+89,Ambikapur,GEN,Sarguja,90780,90686,,,,,,
+90,Sitapur ,ST,Sarguja,83088,65928,,,,,,BJP

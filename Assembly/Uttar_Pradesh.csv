@@ -1,0 +1,404 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,INC,SP,BSP,AD(K),AD,NCP,RLD,SBSP,NINSHAD,JDL,AAP,AIMIM,VIP,PMSP,JANADIP,Independent,Strong_Party,BJP
+86,Etmadpur,GEN,Agra,,48642,98679,,,,,,,,,,,,,,,146603
+87,Agra Cantt,SC,Agra,,69099,54409,,,,,,,,,,,,,,,117796
+88,Agra South,GEN,Agra,,52622,38219,,,,,,,,,,,,,,,109262
+89,Agra North,GEN,Agra,,34403,41447,,,,,,,,,,,,,,BJP,153817
+106,Jalesar,SC,Agra,,86898,,,,,,,,,,,,,,,,91339
+206,Akbarpur Raniya,GEN,Akbarpur,,79410,32233,,,,,,,,,,,,,,,92827
+210,Bithoor,GEN,Akbarpur,,86257,36955,,,,,,,,,,,,,,,107330
+211,Kalyanpur,GEN,Akbarpur,,77462,,,,,,,,,,,,,,,BJP,98997
+217,Maharajpur,GEN,Akbarpur,,70622,,,,,,,,,,,,,,,BJP,152883
+218,Ghatampur,SC,Akbarpur,,67253,32472,,81727,,,,,,,,,,,,,
+71,Khair,SC,Aligarh,,,65302,,,,41644,,,,,,,,,,BJP,139643
+72,Barauli,GEN,Aligarh,,,57339,,,,32781,,,,,,,,,,BJP,147984
+73,Atrauli,GEN,Aligarh,,86367,,,,,,,,,,,,,,,BJP,125691
+75,Koil,GEN,Aligarh,,103039,,,,,,,,,,,,,,,,"108067	"
+76,Aligarh,GEN,Aligarh,,107603,,,,,,,,,,,,,,,,120389
+276,Goshainganj,GEN,Ambedkar Nagar,,105863,37271,,,,,,,,,,,,,,,105863
+277,Katehari,GEN,Ambedkar Nagar,,93524,58482,,,85828,,,,,,,,,,,,
+278,Tanda,GEN,Ambedkar Nagar,,95263,45222,,,,,,,,,,,,,,,63166
+280,Jalalpur,GEN,Ambedkar Nagar,,93668,80038,,,,,,,,,,,,,,,71236
+281,Akbarpur,GEN,Ambedkar Nagar,,81931,53398,,,,,,,,,,,,,,,69595
+178,Tiloi,GEN,Amethi,21978,71643,,,,,,,,,,,,,,,,99472
+181,Salon,SC,Amethi,,85604,,,,,,,,,,,,,,,,87715
+184,Jagdishpur,SC,Amethi,66491,27971,,,,,,,,,,,,,,,,89315
+185,Gauriganj,GEN,Amethi,28964,79040,,,,,,,,,,,,,,,,72077
+186,Amethi,GEN,Amethi,,88217,,,,,,,,,,,,,,,,70121
+39,Dhanaura,SC,Amroha,,91629,43974,,,,,,,,,,,,,,,103054
+40,Naugawan Sadat,GEN,Amroha,,108497,28688,,,,,,,,,,,,,,,101957
+41,Amroha,GEN,Amroha,,128735,34585,,,,,,,,,,,,,,,57699
+42,Hasanpur,GEN,Amroha,,97753,,,,,,,,,,,,,,,,120135
+60,Garhmukteshwar,GEN,Amroha,,104113,43929,,,,,,,,,,,,,,,104113
+116,Shekhupur,GEN,Aonla,,105531,34932,,,,,,,,,,,,,,,99431
+117,Dataganj,GEN,Aonla,,98115,,,,,,,,,,,,,,,,107591
+122,Faridpur,SC,Aonla,,89149,,,,,,,,,,,,,,,,92070
+123,Bithari Chainpur,GEN,Aonla,,99576,,,,,,,,,,,,,,,,115417
+126,Aonla,GEN,Aonla,,70532,,,,,,,,,,,,,,,,88956
+344,Gopalpur,GEN,Azamgarh,,84401,45211,,,,,,,,,,,,,,,60094
+345,Sagri,GEN,Azamgarh,,83093,41006,,,,,,,,,,,,,,,60578
+346,Mubarakpur,GEN,Azamgarh,,80726,48734,,,,,,,,,36460,,,,,,51623
+347,Azamgarh,GEN,Azamgarh,,100813,39281,,,,,,,,,,,,,,,84777
+352,Mehnagar,SC,Azamgarh,,86960,50173,,,,,,,,,,,,,,,72811
+111,Gunnaur,GEN,Badaun,,123969,,,,,,,,,,,,,,,SP,94440
+112,Bisauli,SC,Badaun,,110569,,,,,,,,,,,,,,,,108735
+113,Sahaswan,GEN,Badaun,,83673,69728,,,,,,,,,,,,,,,66616
+114,Bilsi,GEN,Badaun,,68385,31694,,,,,,,,,,,,,,,93500
+115,Badaun,GEN,Badaun,,89917,23135,,,,,,,,,,,,,,,101096
+43,Siwalkhas,GEN,Baghpat,,97753,36150,,,,,,,,,,,,,,,120135
+50,Chhaprauli,GEN,Baghpat,,,,,,,111880,,,,,,,,,,RLD,82372
+51,Baraut,GEN,Baghpat,,,,,,,90616,,,,,,,,,,,90931
+52,Baghpat,GEN,Baghpat,,,,,,,94687,,,,,,,,,,,101420
+57,Modi Nagar,GEN,Baghpat,,,26729,,,,78730,,,,,,,,,,,113349
+282,Balha,SC,Bahraich,,83910,,,,,,,,,,,,,,,,100483
+283,Nanpara,GEN,Bahraich,,75505,,,87689,,,,,,,,,,,,,
+284,Matera,GEN,Bahraich,,102255,,,,,,,,,,,,,,,,91827
+285,Mahasi,GEN,Bahraich,,75199,,,,,,,,,,,,,,,BJP,117883
+286,Bahraich,GEN,Bahraich,,103550,,,,,,,,,,,,,,,,107628
+360,Phephana,GEN,Ballia,,92516,,,,,,,,,,,,,,,,73162
+361,Ballia Nagar,GEN,Ballia,,77634,,,,,,,,,,,,,,,BJP,103873
+363,Bairia,GEN,Ballia,,71241,,,,,,,,,,,28615,,,,,58290
+377,Zahoorabad,GEN,Ballia,,,53144,,,,,114860,,,,,,,,,,69228
+378,Mohammadabad,GEN,Ballia,,111443,32440,,,,,,,,,,,,,,,92684
+233,Baberu,GEN,Banda,,79614,37009,,,,,,,,,,,,,,,72221
+234,Naraini,SC,Banda,,76544,36871,,,,,,,,,,,,,,,83263
+235,Banda,GEN,Banda,,66343,38284,,,,,,,,,,,,,,,81557
+236,Chitrakoot,GEN,Banda,,104771,38711,,,,,,,,,,,,,,,83895
+237,Manikpur,GEN,Banda,,72084,45367,,73132,,,,,,,,,,,,,
+326,Chauri-Chaura,GEN,Bansgaon,,50831,25077,,,,,,,,,,,,,29582,,91958
+327,Bansgaon,SC,Bansgaon,,54915,37204,,,,,,,,,,,,,,,87224
+328,Chillupar,GEN,Bansgaon,,75132,45729,,,,,,,,,,,,,,,96777
+336,Rudrapur,GEN,Bansgaon,31177,36251,20093,,,,,,,,,,,,,,,78187
+342,Barhaj,GEN,Bansgaon,,91502,51293,,,,,,74255,,,,,,,,,
+266,Kursi,GEN,Barabanki,,118503,35561,,,,,,,,,,,,,,,118720
+267,Ram Nagar,GEN,Barabanki,,98799,23259,,,,,,,,,,,,,,,98538
+268,Barabanki,GEN,Barabanki,,125500,42506,,,,,,,,,,,,,,,90450
+269,Zaidpur,SC,Barabanki,28689,113558,,,,,,,,,,,,,,,,110576
+272,Haidergarh,SC,Barabanki,,91422,,,,,,,,,,,,,,,BJP,117113
+119,Meerganj,GEN,Bareilly,,83955,,,,,,,,,,,,,,,BJP,116435
+120,Bhojipura,GEN,Bareilly,,119402,26909,,,,,,,,,,,,,,,109993
+121,Nawabganj,GEN,Bareilly,,101876,,,,,,,,,,,,,,,,111113
+124,Bareilly,GEN,Bareilly,,96694,,,,,,,,,,,,,,,,129014
+125,Bareilly Cantt,GEN,Bareilly,,88163,,,,,,,,,,,,,,,BJP,98931
+307,Harraiya,GEN,Basti,,69871,55697,,,,,,,,,,,,,,,88200
+308,Kaptanganj,GEN,Basti,,94273,40381,,,,,,,,,,,,,,,70094
+309,Rudhauli,GEN,Basti,,86360,37618,,,,,,,,24463,,,,,,,71134
+310,Basti Sadar,GEN,Basti,,86029,36429,,,,,,,,,,,,,,,84250
+311,Mahadewa,SC,Basti,,,40207,,,,,83350,,,,,,,,,,77855
+257,Pratappur,GEN,Bhadohi,,91142,34912,,80186,,,,,,,,,,,,,
+258,Handia,GEN,Bhadohi,,84417,33877,,,,,,80874,,,,,,,,,
+392,Bhadohi,GEN,Bhadohi,,100738,40758,,,,,,,,,,,,,,,95853
+393,Gyanpur,GEN,Bhadohi,,67215,30753,,,,,,73446,,,,,34985,,,,
+394,Aurai,SC,Bhadohi,,92044,28413,,,,,,,,,,,,,,,93691
+13,Purqazi,SC,Bijnor,,,27778,,,,92672,,,,,,,,,,,86140
+16,Meerapur,GEN,Bijnor,,,23797,,,,107421,,,,,,,,,,,80041
+22,Bijnor,GEN,Bijnor,,,52035,,,,95720,,,,,,,,,,,97165
+23,Chandpur,GEN,Bijnor,,90522,37359,,,,,,,,,,,,,,,90288
+45,Hastinapur,SC,Bijnor,,100275,,,,,,,,,,,,,,,,107587
+65,Bulandshahr,GEN,Bulandshahr,,,,,,,101246,,,,,,,,,,,127076
+66,Syana,GEN,Bulandshahr,,,36193,,,,59468,,,,,,,,,,BJP,149125
+67,Anupshahr,GEN,Bulandshahr,,,47979,,,44180,,,,,,,,,,,BJP,125602
+68,Debai,GEN,Bulandshahr,,60615,60615,,,,,,,,,,,,,,BJP,128640
+69,Shikarpur,GEN,Bulandshahr,,,37358,,,,58172,,,,,,,,,,BJP,113855
+380,Mughalsarai,GEN,Chandauli,,87295,31602,,,,,,,,,,,,,,,102216
+381,Sakaldiha,GEN,Chandauli,,31602,43756,,,,,,,,,,,,,,,69667
+382,Saiyadraja,GEN,Chandauli,,87891,36848,,,,,,,,,,,,,,,87891
+385,Ajagara,SC,Chandauli,,,42301,,,,,91928,,,,,,,,,,101088
+386,Shivpur,GEN,Chandauli,,,40601,,,,,87544,,,,,,,,,,115231
+331,Tamkuhi Raj,GEN,Deoria,33496,48651,,,,,,,,,,,,,,,BJP,115123
+332,Fazilnagar,GEN,Deoria,,71015,28237,,,,,,,,,,,,,,BJP,116029
+337,Deoria,GEN,Deoria,,66046,,,,,,,,,,,,,,,,106701
+338,Pathardeva,GEN,Deoria,,65177,33667,,,,,,,,,,,,,,,93858
+339,Rampur Karkhana,GEN,Deoria,,76072,,,,,,,,,,,,,,,,90742
+141,Dhaurahra,GEN,Dhaurahra,,88888,,,,,,,,,,,,,,,BJP,113498
+143,Kasta,SC,Dhaurahra,,89498,,,,,,,,,,,,,,,,103315
+144,Mohammdi,GEN,Dhaurahra,,86869,35304,,,,,,,,,,,,,,,92091
+145,Maholi,GEN,Dhaurahra,,99868,25507,,,,,,,,,,,,,,,112040
+147,Hargaon,SC,Dhaurahra,,78531,,,,,,,,,,,,,,,BJP,116691
+302,Shohratgarh,GEN,Domariyaganj,20242,,22300,,71062,,,46599,,,,,,,,,,
+303,Kapilvastu,SC,Domariyaganj,,92001,26662,,,,,,,,,,,,,,,122940
+304,Bansi,GEN,Domariyaganj,,64256,22071,,,,,,,,,,,,,,,84596
+305,Itwa,GEN,Domariyaganj,,64253,24944,,,,,,,,,,,,,,,62591
+306,Domariyaganj,GEN,Domariyaganj,,85098,,,,,,,,,,,,,,,,84327
+100,Kasganj,GEN,Etah,,77145,,,,,,,,,,,,,,,,123410
+101,Amanpur,GEN,Etah,,53048,35372,,,,,,,,,,,,,,BJP,96377
+102,Patiyali,GEN,Etah,,91958,30626,,,,,,,,,,,,,,,87957
+104,Etah,GEN,Etah,,80292,26871,,,,,,,,,,,,,,,97539
+105,Marhara,GEN,Etah,,83778,,,,,,,,,,,,,,,,101387
+200,Etawah,GEN,Etawah,,94166,46525,,,,,,,,,,,,,,,98150
+201,Bharthana,SC,Etawah,,103676,37599,,,,,,,,,,,,,,,96117
+203,Dibiyapur,GEN,Etawah,,80865,31500,,,,,,,,,,,,,,,80392
+204,Auraiya,SC,Etawah,,66184,36159,,,,,,,,,,,,,,,88631
+207,Sikandra,GEN,Etawah,,,36033,,,,,,,,,,,,,,,89461
+270,Dariyabad,GEN,Faizabad,,95817,28361,,,,,,,,,,,,,,,128219
+271,Rudauli,GEN,Faizabad,,53415,52181,,,,,,,,,,,,,,,94031
+273,Milkipur,SC,Faizabad,,103905,,,,,,,,,,,,,,,,90567
+274,Bikapur,GEN,Faizabad,,101708,,,,,,,,,,,,,,,,107268
+275,Ayodhya,GEN,Faizabad,,93424,,,,,,,,,,,,,,,,113414
+103,Aliganj,GEN,Farrukhabad,,99063,,,,,,,,,,,,,,,,102873
+192,Kaimganj,SC,Farrukhabad,,96409,,,114952,,,,,,,,,,,,,
+193,Amritpur,GEN,Farrukhabad,,54162,,,,,,,,,,,,,,,BJP,98848
+194,Farrukhabad,GEN,Farrukhabad,,72998,,,,,,,,,,,,,,,BJP,112314
+195,Bhojpur,GEN,Farrukhabad,,72521,,,,,,,,,,,,,,,BJP,99979
+238,Jahanabad,GEN,Fatehpur,,60311,39205,,,,,,,,,,,,,,,78503
+239,Bindki,GEN,Fatehpur,,74368,23358,,78165,,,,,,,,,,,,,
+240,Fatehpur,GEN,Fatehpur,,96839,,,,,,,,,,,,,,,,88238
+241,Ayah Shah,GEN,Fatehpur,,58225,22045,,,,,,,,,,,,,,,71231
+242,Husainganj,GEN,Fatehpur,,91884,21009,,,,,,,,,,,,,,,66703
+243,Khaga,SC,Fatehpur,,78226,22115,,,,,,,,,,,,,,,83735
+90,Agra Rural,SC,Fatehpur Sikri,,,60702,,,,52731,,,,,,,,,,BJP,137310
+91,Fatehpur Sikri,GEN,Fatehpur Sikri,,,59641,,,,64826,,,,,,,,,,,112095
+92,Kheragarh,GEN,Fatehpur Sikri,60077,,28988,,,,,,,,,,,,,,,96574
+93,Fatehabad,GEN,Fatehpur Sikri,,55576,40958,,,,,,,,,,,,,,BJP,108811
+94,Bah,GEN,Fatehpur Sikri,,54125,50618,,,,,,,,,,,,,,,78360
+95,Tundla,SC,Firozabad,,75190,40977,,,,,,,,,,,,,,,122881
+96,Jasrana,GEN,Firozabad,,108289,,,,,,,,,,,,,,,,107453
+97,Firozabad,GEN,Firozabad,,79554,37643,,,,,,,,,,,,,,,112509
+98,Shikohabad,GEN,Firozabad,,106279,25445,,,,,,,,,,,,,,,96951
+99,Sirsaganj,GEN,Firozabad,,96224,,,,,,,,,,,,,,,,87419
+61,Noida,GEN,Gautam Buddha Nagar,,62806,,,,,,,,,,,,,,,BJP,244319
+62,Dadri,GEN,Gautam Buddha Nagar,,79850,40456,,,,,,,,,,,,,,BJP,218068
+63,Jewar,GEN,Gautam Buddha Nagar,,,45256,,,,60890,,,,,,,,,,BJP,117205
+64,Sikandrabad,GEN,Gautam Buddha Nagar,,96301,42634,,,,,,,,,,,,,,,125644
+70,Khurja,SC,Gautam Buddha Nagar,,70377,45325,,,,,,,,,,,,,,BJP,137461
+53,Loni,GEN,Ghaziabad,,,,,,,118734,,,,,,,,,,,127410
+54,Muradnagar,GEN,Ghaziabad,,,,,,,72195,,,,,,,,,,BJP,169290
+55,Sahibabad,GEN,Ghaziabad,,108047,,,,,,,,,,,,,,,BJP,322882
+56,Ghaziabad,GEN,Ghaziabad,,44668,32691,,,,,,,,,,,,,,BJP,150205
+58,Dhaulana,GEN,Ghaziabad,,112400,32999,,,,,,,,,,,,,,,125028
+373,Jakhanian,SC,Ghazipur,,,51585,,,,,113378,,,,,,,,,,76513
+374,Saidpur,SC,Ghazipur,,109711,45097,,,,,,,,,,,,,,,73076
+375,Ghazipur,GEN,Ghazipur,,92472,33931,,,,,,,,,,,,,,,90780
+376,Jangipur,GEN,Ghazipur,,103125,47857,,,,,,,,,,,,,,,68062
+379,Zamania,GEN,Ghazipur,,94695,53303,,,,,,,,,,,,,,,72239
+353,Madhuban,GEN,Ghosi,,74584,51185,,,,,,,,,,,,,,,79032
+354,Ghosi,GEN,Ghosi,,108430,54248,,,,,,,,,,,,,,,86214
+355,Muhammadabad-Gohna,SC,Ghosi,,94688,56350,,,,,,,,,,,,,,,68039
+356,Mau,GEN,Ghosi,,,44516,,,,,124691,,,,,,,,,,86575
+358,Rasara,GEN,Ghosi,,,87887,,,,,81304,,,,,,,,,,24235
+293,Utraula,GEN,Gonda,,65393,,,,,,,,,,,,,,,,87162
+295,Mehnaun,GEN,Gonda,,84109,,,,,,,,,,,,,,,BJP,107327
+296,Gonda,GEN,Gonda,,89829,,,,,,,,,,,,,,,,96528
+300,Mankapur,SC,Gonda,,63328,,,,,,,,,,,,,,,BJP,105677
+301,Gaura,GEN,Gonda,31589,50571,,,,,,,,,,,,,,,,73545
+320,Caimpiyarganj,GEN,Gorakhpur,,79376,,,,,,,,,,,,,,,BJP,122032
+321,Pipraich,GEN,Gorakhpur,,76423,30954,,,,,,,,,,,,,,BJP,141780
+322,Gorakhpur Urban,GEN,Gorakhpur,,62109,,,,,,,,,,,,,,,BJP,165499
+323,Gorakhpur Rural,GEN,Gorakhpur,,102306,,,,,,,,,,,,,,,,126376
+324,Sahajanwa,GEN,Gorakhpur,,62575,43905,,,,,,,,,,,,,,,105981
+228,Hamirpur,GEN,Hamirpur,,79947,47299,,,,,,,,,,,,,,,105432
+229,Rath,SC,Hamirpur,,77394,,,,,,,,,,,,,,,BJP,47299
+230,Mahoba,GEN,Hamirpur,,51043,38296,,,,,,,,,,,,,,,94490
+231,Charkhari,GEN,Hamirpur,,60170,41087,,,,,,,,,,,,,,,102051
+232,Tindwari,GEN,Hamirpur,,58387,39450,,,,,,,,,,,,,,,86812
+154,Sawayazpur,GEN,Hardoi,,88576,,,,,,,,,,,,,,,,114263
+155,Shahabad,GEN,Hardoi,,88082,37475,,,,,,,,,,,,,,BJP,94561
+156,Hardoi,GEN,Hardoi,,84339,,,,,,,,,,,,,,,,126750
+157,Gopamau,SC,Hardoi,,83764,31715,,,,,,,,,,,,,,,91762
+158,Sandi,SC,Hardoi,,72286,30576,,,,,,,,,,,,,,,81519
+74,Chharra,GEN,Hathras,,86966,37558,,,,,,,,,,,,,,,111293
+77,Iglas,SC,Hathras,,,37980,,,,68046,,,,,,,,,,,127209
+78,Hathras,SC,Hathras,,47185,53799,,,,,,,,,,,,,,BJP,154655
+79,Sadabad,GEN,Hathras,,,32555,,,,104874,,,,,,,,,,,98437
+80,Sikandra Rao,GEN,Hathras,,89990,41781,,,,,,,,,,,,,,,98094
+208,Bhognipur,GEN,Jalaun,,75916,47332,,,,,,,,,,,,,,,87809
+219,Madhaugarh,GEN,Jalaun,,63035,70257,,,,,,,,,,,,,,,105231
+220,Kalpi,GEN,Jalaun,,69782,64683,,,,,,66966,,,,,,,,,
+221,Orai,SC,Jalaun,,90996,38638,,,,,,,,,,,,,,,128644
+225,Garautha,GEN,Jalaun,,80397,29333,,,,,,,,,,,,,,,114059
+364,Badlapur,GEN,Jaunpur,,81065,34792,,,,,,,,,,,,,,,82391
+365,Shahganj,GEN,Jaunpur,,86514,48957,,,,,87233,,,,,,,,,,
+366,Jaunpur,GEN,Jaunpur,,89708,30579,,,,,,,,,,,,,,,97760
+367,Malhani,GEN,Jaunpur,,,38803,,,,,78995,,,,,,,,,,73481
+368,Mungra Badshahpur,GEN,Jaunpur,,92048,32597,,,,,,,,,,,,,,,86818
+222,Babina,GEN,Jhansi,,73814,30540,,,,,,,,,,,,,,BJP,118343
+223,Jhansi Nagar,GEN,Jhansi,,71909,,,,,,,,,,,,,,,BJP,148262
+224,Mauranipur,SC,Jhansi,,84982,32641,,143577,,,,,,,,,,,,AD,
+226,Lalitpur,GEN,Jhansi,,68597,69335,,,,,,,,,,,,,,BJP,176550
+227,Mehroni,SC,Jhansi,,58381,74327,,,,,,,,,,,,,,BJP,184778
+2,Nakur,GEN,Kairana,,103799,55112,,,,,,,,,,,,,,,104114
+7,Gangoh,GEN,Kairana,,93133,55078,,,,,,,,,,,,,,,116582
+8,Kairana,GEN,Kairana,,131035,,,,,,,,,,,,,,,SP,105148
+9,Thana Bhawan,GEN,Kairana,,,,,,,103751,,,,,,,,,,,92945
+10,Shamli,GEN,Kairana,,,,,,,103070,,,,,,,,,,,95963
+287,Payagpur,GEN,Kaiserganj,,98106,,,,,,,,,,,,,,,,110162
+288,Kaiserganj,GEN,Kaiserganj,,"103135	",,,,,,,,,,,,,,,,95424
+297,Katra Bazar,GEN,Kaiserganj,,93834,,,,,,,,,,,,,,,,112291
+298,Colonelganj,GEN,Kaiserganj,,72637,,,,,,,,,,,,,,,BJP,108109
+299,Tarabganj,GEN,Kaiserganj,,71635,,,,,,,,,,,,,,,BJP,125325
+196,Chhibramau,GEN,Kannauj,,123662,,,,,,,,,,,,,,,,124773
+197,Tirwa,GEN,Kannauj,,101481,,,,,,,,,,,,,,,,106089
+198,Kannauj,SC,Kannauj,,114786,,,,,,,,,,,,,,,,120876
+202,Bidhuna,GEN,Kannauj,,97257,32220,,,,,,,,,,,,,,,89492
+205,Rasulabad,SC,Kannauj,,70271,28189,,,,,,,,,,,,,,,91783
+212,Govindnagar,GEN,Kanpur,26267,36605,,,,,,,,,,,,,,,BJP,117501
+213,Sishamau,GEN,Kanpur,,79163,,,,,,,,,,,,,,,SP,66897
+214,Arya Nagar,GEN,Kanpur,,76897,,,,,,,,,,,,,,,SP,68973
+215,Kidwai Nagar,GEN,Kanpur,76351,,,,,,,,,,,,,,,,BJP,114111
+216,Kanpur Cantt,GEN,Kanpur,,94729,,,,,,,,,,,,,,,SP,74742
+245,Babaganj,SC,Kaushambi,,51515,,,,,,,,67282,,,,,,,,30391
+246,Kunda,GEN,Kaushambi,,69297,,,,,,,,99612,,,,,,,JDS,
+251,Sirathu,GEN,Kaushambi,,106278,,,,,,,,,,,,,,,,98941
+252,Manjhanpur,SC,Kaushambi,,121506,25430,,,,,,,,,,,,,,,97628
+253,Chail,GEN,Kaushambi,,75609,31362,,88818,,,,,,,,,,,,,
+137,Palia,GEN,Kheri,,80735,,,,,,,,,,,,,,,BJP,118864
+138,Nighasan,GEN,Kheri,,85479,,,,,,,,,,,,,,,BJP,126488
+139,Gola Gokrannath,GEN,Kheri,,97240,,,,,,,,,,,,,,,,126534
+140,Sri Nagar,SC,Kheri,,90641,23091,,,,,,,,,,,,,,,108249
+142,Lakhimpur,GEN,Kheri,,107085,,,,,,,,,,,,,,,,127663
+329,Khadda,GEN,Kushinagar,,,,,,,,21126,88291,,,,,,,46840,,
+330,Padrauna,GEN,Kushinagar,,72488,,,,,,,,,,,,,,,BJP,114496
+333,Kushinagar,GEN,Kushinagar,,80478,,,,,,,,,,,,,,,BJP,115268
+334,Hata,GEN,Kushinagar,,61301,21723,,,,,,,,,,,,,,BJP,120666
+335,Ramkola,SC,Kushinagar,,23038,,,,,,52249,,,,,,,,,BJP,124792
+343,Atrauliya,GEN,Lalganj,,91502,51293,,,,,,74255,,,,,,,,,
+348,Nizamabad,GEN,Lalganj,,79835,44657,,,,,,,,,,,,,,,45648
+349,Phoolpur-Pawai,GEN,Lalganj,,81164,49495,,,,,,,,,,,,,,,55858
+350,Didarganj,GEN,Lalganj,,74342,47094,,,,,,,,,,,,,,,60781
+351,Lalganj,SC,Lalganj,,83767,57809,,,,,,,,,,,,,,,69034
+171,Lucknow West,GEN,Lucknow,,124497,,,,,,,,,,,,,,,,116313
+172,Lucknow North,GEN,Lucknow,,105206,,,,,,,,,,,,,,,BJP,139159
+173,Lucknow East,GEN,Lucknow,,84197,,,,,,,,,,,,,,,BJP,152928
+174,Lucknow Central,GEN,Lucknow,,104488,,,,,,,,,,,,,,,,93553
+175,Lucknow Cantt,GEN,Lucknow,,68635,,,,,,,,,,,,,,,BJP,108147
+369,Machhlishahr,SC,Machhlishahr,,91659,35059,,,,,,,,,,,,,,,83175
+370,Mariyahu,GEN,Machhlishahr,,74801,32783,,76007,,,,,,,,,,,,,
+371,Zafrabad,GEN,Machhlishahr,,,35234,,,,,90620,,,,,,,,,,84328
+372,Kerakat,SC,Machhlishahr,,94022,51633,,,,,,,,,,,,,,,84178
+384,Pindra,GEN,Machhlishahr,48248,,48766,,33020,,,,,,,,,,,,,44530
+315,Pharenda,GEN,Maharajganj,85181,,21665,,,,,,,,,,,,,,,83935
+316,Nautanwa,GEN,Maharajganj,,74932,46128,,,,,,90263,,,,,,,,,
+317,Siswa,GEN,Maharajganj,,64942,33498,,,,,,,,,,,,,,BJP,127673
+318,Maharajganj,SC,Maharajganj,,,,,,,,,,,,,,,,59168,,136071
+319,Paniyra,GEN,Maharajganj,,74035,34829,,,,,,,,,,,,,,,135463
+107,Mainpuri,GEN,Mainpuri,,93048,,,,,,,,,,,,,,,,99814
+108,Bhongaon,GEN,Mainpuri,,92441,,,,,,,,,,,,,,,,97208
+109,Kishni,SC,Mainpuri,,97070,,,,,,,,,,,,,,,,77919
+110,Karhal,GEN,Mainpuri,,148196,,,,,,,,,,,,,,,SP,80692
+199,Jaswantnagar,GEN,Mainpuri,,159718,,,,,,,,,,,,,,,SP,68739
+81,Chhata,GEN,Mathura,,,30214,,,,75466,,,,,,,,,,BJP,124414
+82,Mant,GEN,Mathura,,60585,74378,,,,,,,,,,,,,,,83958
+83,Goverdhan,GEN,Mathura,,,57692,,,,55679,,,,,,,,,,,100199
+84,Mathura,GEN,Mathura,49056,,31551,,,,,,,,,,,,,,BJP,158859
+85,Baldev,SC,Mathura,,,48370,,,,83159,,,,,,,,,,,31551
+46,Kithore,GEN,Meerut,,107104,31213,,,,,,,,,,,,,,,104924
+47,Meerut Cantt,GEN,Meerut,,,28519,,,,43960,,,,,,,,,,BJP,162032
+48,Meerut,GEN,Meerut,,106395,,,,,,,,,,,,,,,SP,80330
+49,Meerut South,GEN,Meerut,,121725,39857,,,,,,,,,,,,,,,129667
+59,Hapur,SC,Meerut,,,50751,,,,90828,,,,,,,,,,,97862
+395,Chhanbey,SC,Mirzapur,,64389,32145,,102502,,,,,,,,,,,,,
+396,Mirzapur,GEN,Mirzapur,,78766,,,,,,,,,,,,,,,,118642
+397,Majhawan,GEN,Mirzapur,,69648,52990,,,,,,103235,,,,,,,,,
+398,Chunar,GEN,Mirzapur,,,29389,63366,,,,,,,,,,,,,,110980
+399,Marihan,GEN,Mirzapur,,42007,42466,23982,,,,,,,,,,,,,,105377
+153,Misrikh,SC,Misrikh,,,34654,,,,,79627,,,,,,,,,,91092
+159,Bilgram-Mallanwan,GEN,Misrikh,52398,57185,35764,,,,,,,,,,,,,,,82075
+160,Balamau,SC,Misrikh,,55750,42551,,,,,,,,,,,,,,,81994
+161,Sandila,GEN,Misrikh,,,64627,,,,,24655,,,,,,,,,BJP,101730
+209,Bilhaur,SC,Misrikh,,80743,31426,,,,,,,,,,,,,,BJP,123094
+152,Sidhauli,SC,Mohanlalganj,,96506,31530,,,,,,,,,,,,,,,106222
+168,Malihabad,SC,Mohanlalganj,,98627,25914,,,,,,,,,,,,,,,106372
+169,Bakshi Kaa Talab,GEN,Mohanlalganj,,120134,35167,,,,,,,,,,,,,,,147922
+170,Sarojini Nagar,GEN,Mohanlalganj,,104440,33356,,,,,,,,,,,,,,,160626
+176,Mohanlalganj,SC,Mohanlalganj,,90541,31623,,,,,,,,,,,,,,,107089
+19,Barhapur,GEN,Moradabad,,85755,46638,,,,,,,,,,,,,,,100100
+25,Kanth,GEN,Moradabad,,134692,36341,,,,,,,,,,,,,,,91514
+26,Thakurdwara,GEN,Moradabad,,134391,,,,,,,,,,,,,,,,114707
+27,Moradabad Rural,GEN,Moradabad,,143337,,,,,,,,,,,,,,,SP,86517
+28,Moradabad Nagar,GEN,Moradabad,,147602,,,,,,,,,,,,,,,,148384
+11,Budhana,GEN,Muzaffarnagar,,,,,,,131093,,,,,,,,,,RLD,102783
+12,Charthawal,GEN,Muzaffarnagar,,97363,25131,,,,,,,,,,,,,,,92029
+14,Muzaffar Nagar,GEN,Muzaffarnagar,,,,,,,93100,,,,,,,,,,,111794
+15,Khatauli,GEN,Muzaffarnagar,,,31412,,,,84306,,,,,,,,,,,100651
+44,Sardhana,GEN,Muzaffarnagar,,118573,,,,,,,,,,,,,,,,100373
+17,Najibabad,GEN,Nagina,,102675,44727,,,,,,,,,,,,,,,78905
+18,Nagina,SC,Nagina,,97155,40164,,,,,,,,,,,,,,,70704
+20,Dhampur,GEN,Nagina,,81588,38993,,,,,,,,,,,,,,,81791
+21,Nehtaur,SC,Nagina,,,38020,,,,77677,,,,,,,,,,,77935
+24,Noorpur,GEN,Nagina,,92574,31300,,,,,,,,,,,,,,,86509
+254,Phaphamau,GEN,Phulpur,,76862,27286,,,,,,,,,,,,,,,91186
+255,Soraon,SC,Phulpur,,91474,29250,,85884,,,,,,,,,,,,,
+256,Phulpur,GEN,Phulpur,,103557,33036,,,,,,,,,,,,,,,103557
+261,Allahabad West,GEN,Phulpur,,88826,,,,,,,,,,,,,,,BJP,118759
+262,Allahabad North,GEN,Phulpur,23571,42007,,,,,,,,,,,,,,,BJP,96890
+118,Baheri,GEN,Pilibhit,,124145,,,,,,,,,,,,,,,,120790
+127,Pilibhit,GEN,Pilibhit,,118536,,,,,,,,,,,,,,,,125506
+128,Barkhera,GEN,Pilibhit,,70299,,,,,,,,,,,,,,,BJP,151771
+129,Puranpur,SC,Pilibhit,,107828,,,,,,,,,,,,,,,BJP,134404
+130,Bisalpur,GEN,Pilibhit,,70733,35983,,,,,,,,,,,,,,BJP,121142
+244,Rampur Khas,GEN,Pratapgarh,84334,,,,,,,,,,,,,,,,INC,69593
+247,Vishwanath Ganj,GEN,Pratapgarh,,38777,,,86829,,,,,,,,,,20271,38777,,
+248,Pratapgarh,GEN,Pratapgarh,,,,,64699,,,,,,,,,,,,,89762
+249,Patti,GEN,Pratapgarh,,108070,,,,,,,,,,,,,,,,86019
+250,Raniganj,GEN,Pratapgarh,,75583,,,21411,,,,,,,,,,,,,72934
+259,Meja,GEN,Prayagraj,,78555,22933,,,,,,,,,,,,,,,75116
+260,Karachhana,GEN,Prayagraj,,80199,21950,,,,,,,,,,,,,,,89527
+263,Allahabad South,GEN,Prayagraj,,71682,,,,,,,,,,,,,,,BJP,97864
+264,Bara,SC,Prayagraj,,76679,22719,,89203,,,,,,,,,,,,,
+265,Koraon,SC,Prayagraj,,60100,26383,,,,,,,,,,,,,,,84587
+177,Bachhrawan,SC,Rae Bareli,56835,65747,,,62935,,,,,,,,,,,,,
+179,Harchandpur,GEN,Rae Bareli,,92498,,,,,,,,,,,,,,,,78009
+180,Rae Bareli,GEN,Rae Bareli,,95254,,,,,,,,,,,,,,,,102429
+182,Sareni,GEN,Rae Bareli,42702,66166,38155,,,,,,,,,,,,,,,62359
+183,Unchahar,GEN,Rae Bareli,,82514,34692,,,,,,,,,,,,,,,75893
+34,Suar,GEN,Rampur,,126162,,,,,,,,,,,,,,,,
+35,Chamraua,GEN,Rampur,,100976,,,,,,,,,,,,,,,SP,66686
+36,Bilaspur,GEN,Rampur,,101691,,,,,,,,,,,,,,,,101998
+37,Rampur,GEN,Rampur,,131225,,,,,,,,,,,,,,,SP,76084
+38,Milak,SC,Rampur,,92036,,,,,,,,,,,,,,,,97948
+383,Chakia,SC,Robertsganj,,88561,44530,,,,,,,,,,,,,,,97812
+400,Ghorawal,GEN,Robertsganj,,77355,46941,,,,,,,,,,,,,,,101277
+401,Robertsganj,GEN,Robertsganj,,78875,32887,,,,,,,,,,,,,,,84496
+402,Obra,GEN,Robertsganj,,51922,20131,,,,,,,,,,,,,,,78364
+403,Duddhi,SC,Robertsganj,,78110,23879,,,,,,,,,,,,,,,84407
+1,Behat,GEN,Saharanpur,,134513,45075,,,,,,,,,,,,,,,96633
+3,Saharanpur Nagar,GEN,Saharanpur,,135761,,,,,,,,,,,,,,,,143195
+4,Saharanpur,GEN,Saharanpur,,107007,62637,,,,,,,,,,,,,,,76262
+5,Deoband,GEN,Saharanpur,,86786,52732,,,,,,,,,,,,,,,93890
+6,Rampur Maniharan,SC,Saharanpur,,,68516,,,,64864,,,,,,,,,,,89109
+340,Bhatpar Rani,GEN,Salempur,,73200,,,,,,,,,,,,,,,,91282
+341,Salempur,SC,Salempur,,65439,20657,,,,,,,,,,,,,,,82047
+357,Belthara Road,SC,Salempur,,,38803,,,,,78995,,,,,,,,,,73481
+359,Sikanderpur,GEN,Salempur,,75446,29604,,,,,,,,,,,,,,,63591
+362,Bansdih,GEN,Salempur,,81953,,,,,,,,,,,,,,,,103305
+29,Kundarki,GEN,Sambhal,,125792,42742,,,,,,,,,,,,,,,82630
+30,Bilari,GEN,Sambhal,,95338,42411,,,,,,,,,,,,,,,87728
+31,Chandausi,SC,Sambhal,,77523,30481,,,,,,,,,,,,,,BJP,112890
+32,Asmoli,GEN,Sambhal,,111652,42512,,,,,,,,,,,,,,,86446
+33,Sambhal,GEN,Sambhal,,107073,44443,,,,,,,,,,,,,,,65376
+279,Alapur,SC,Sant Kabir Nagar,,74165,53061,,,,,,,,,,,,,,,64782
+312,Menhdawal,GEN,Sant Kabir Nagar,,84970,50554,,,,,,90193,,,,,,,,,
+313,Khalilabad,GEN,Sant Kabir Nagar,,63464,58368,,,,,,,,25247,,,,,,,76086
+314,Dhanghata,SC,Sant Kabir Nagar,,,40693,,,,,72688,,,,,,,,,,83241
+325,Khajani,SC,Sant Kabir Nagar,,53109,46427,,,,,,,,,,,,,,,90210
+131,Katra,GEN,Shahjahanpur,,77443,,,,,,,,,,,,,,,,77800
+132,Jalalabad,GEN,Shahjahanpur,,95037,,,,,,,,,,,,,,,,99609
+133,Tilhar,GEN,Shahjahanpur,,89030,,,,,,,,,,,,,,,,102307
+134,Powayan,SC,Shahjahanpur,,78207,,,,,,,,,,,,,,,BJP,129785
+135,Shahjahanpur,GEN,Shahjahanpur,,100629,,,,,,,,,,,,,,,,109942
+136,Dadraul,GEN,Shahjahanpur,,91256,,,,,,,,,,,,,,,,100957
+289,Bhinga,GEN,Shrawasti,,103661,,,,,,,,,,,,,,,,90087
+290,Shrawasti,GEN,Shrawasti,,97183,41026,,,,,,,,,,,,,,,98640
+291,Tulsipur,GEN,Shrawasti,,42815,,,,,,,,,,,,,,51251,,87032
+292,Gainsari,GEN,Shrawasti,,75345,31914,,,,,,,,,,,,,,,69508
+294,Balrampur,SC,Shrawasti,,90175,,,,,,,,,,,,,,,,101146
+146,Sitapur,GEN,Sitapur,,98096,,,,,,,,,,,,,,,,99349
+148,Laharpur,GEN,Sitapur,,112987,,,,,,,,,,,,,,,,99832
+149,Biswan,GEN,Sitapur,,95536,24086,,,,,,,,,,,,,,,106014
+150,Sevata,GEN,Sitapur,,87776,,,,,,,,,,,,,,,,108057
+151,Mahmoodabad,GEN,Sitapur,,86869,35304,,,,,,,,,,,,,,,92091
+187,Isauli,GEN,Sultanpur,,69629,54119,,,,,,,,,,,,,,,69360
+188,Sultanpur,GEN,Sultanpur,,91706,22521,,,,,,,,,,,,,,,92715
+189,Sadar,GEN,Sultanpur,,69495,39920,,,,,,,,,,,,,,,85249
+190,Lambhua,GEN,Sultanpur,,73466,42119,,,,,,,,,,,,,,,82999
+191,Kadipur,SC,Sultanpur,,70682,46388,,,,,,,,,,,,,,,96405
+162,Bangermau,GEN,Unnao,,75187,25543,,,,,,,,,,,,,,,90980
+163,Safipur,SC,Unnao,,68836,19768,,,,,,,,,,,,,,BJP,102968
+164,Mohan,SC,Unnao,,70112,,,,,,,,,,,,,,,BJP,113291
+165,Unnao,GEN,Unnao,,95542,,,,,,,,,,,,,,,BJP,126670
+166,Bhagwantnagar,GEN,Unnao,,84108,28441,,,,,,,,,,,,,,BJP,127118
+167,Purwa,GEN,Unnao,,102766,,,,,,,,,,,,,,,BJP,133827
+387,Rohaniya,GEN,Varanasi,,,26356,,118663,,,,,,,,,,,,,
+388,Varanasi North,GEN,Varanasi,,93695,,,,,,,,,,,,,,,BJP,134471
+389,Varanasi South,GEN,Varanasi,,88900,,,,,,,,,,,,,,,BJP,93695
+390,Varanasi Cantt.,GEN,Varanasi,,60989,,,,,,,,,,,,,,,BJP,147833
+391,Sevapuri,GEN,Varanasi,,82632,24065,,,,,,,,,,,,,,,105163

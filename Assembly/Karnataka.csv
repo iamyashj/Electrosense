@@ -1,29 +1,225 @@
-Seat_Name,BJP,INC,JDS,Others
-Bagalkot ,3,5,,
-Bangalore Central ,3,5,0,
-Bangalore North,5,3,0,
-Bangalore Rural,2,5,1,
-Bangalore South ,5,3,,
-Belgaum,3,5,,
-Bellary ,1,6,1,
-Bidar,5,3,,
-Bijapur,1,6,1,
-Chamarajanagar ,0,7,1,
-Chikballapur ,2,5,,1
-Chikoli,3,5,,
-Chitradurga,1,7,,
-Dakshina Kannada,6,2,,
-Davanagere,1,6,,1
-Dharwad,4,4,,
-Gulbarga ,1,6,1,
-Hassan,2,2,4,
-Haveri,1,7,,
-Kolar ,,5,3,
-Koppal ,1,6,,1
-Mandya,0,6,1,1
-Mysore,1,5,2,
-Raichur,2,5,1,
-Shimoga,4,3,1,
-Tumkur,2,4,2,
-Udupi Chikmagalur,4,4,,
-Uttara Kannada,3,5,,
+Index,Assembly_Seat,Seat_Type,Constituency_Name,BJP,INC,NCP,JDS,KRPP,SKP,SDPI,Independent,Strong_Party
+1,Mudhol,SC,Bagalkot,59963,77298,,,,,,,
+2,Terdal,GEN,Bagalkot,77265,66520,,,,,,,
+3,Jamkhandi,GEN,Bagalkot,81937,77221,,,,,,,
+4,Bilgi,GEN,Bagalkot,84523,95652,,,,,,,INC
+5,Badami,GEN,Bagalkot,56120,65845,,41572,,,,,
+6,Bagalkot,GEN,Bagalkot,73458,79336,,,,,,,
+7,Hungund,GEN,Bagalkot,48427,78434,,,33790,,,,
+8,Nargund,GEN,Bagalkot,72835,71044,,,,,,,
+9,Sarvagnanagar,GEN,Bangalore central,63015,118783,,,,,,,INC
+10,C.V. RamannNagar,SC,Bangalore central,69228,52833,,,,,,,BJP
+11,Shivajinagar,GEN,Bangalore central,41719,64913,,,,,,,INC
+12,Shantinagar,GEN,Bangalore central,53905,61030,,,,,,,INC
+13,Gandhinagar,GEN,Bangalore central,54013,54118,,,,,,,
+14,Rajajinagar,GEN,Bangalore central,58624,50564,,,,,,,BJP
+15,Chamrajapet,GEN,Bangalore central,,77631,,,,,,,INC
+16,Mahadevapura,SC,Bangalore central,181731,137230,,,,,,,BJP
+17,K.R. Pura,GEN,Bangalore North,139925,115624,,,,,,,BJP
+18,Byatarayanapura,GEN,Bangalore North,121978,160182,,,,,,,INC
+19,Yeshwanthapura,GEN,Bangalore North,169149,,,154031,,,,,
+20,Dasarahalli,GEN,Bangalore North,91289,,,82095,,,,,
+21,Mahalakshmi Layout,GEN,Bangalore North,96424,45259,,,,,,,BJP
+22,Malleshwaram,GEN,Bangalore North,80606,39304,,,,,,,BJP
+23,Hebbal,GEN,Bangalore North,61084,91838,,,,,,,INC
+24,Pulakeshinagar,SC,Bangalore North,,87316,,,,,,,INC
+25,Kunigal,GEN,Bangalore Rural,48151,74724,,46974,,,,,
+26,Rajarajeshwarinagar,GEN,Bangalore Rural,127980,116138,,,,,,,
+27,Bangalore South,GEN,Bangalore Rural,196220,146521,,,,,,,BJP
+28,Anekal,SC,Bangalore Rural,103472,134797,,,,,,,INC
+29,Magadi,GEN,Bangalore Rural,,94650,,82811,,,,,
+30,Ramanagaram,GEN,Bangalore Rural,,87690,,76975,,,,,
+31,Kanakapura,GEN,Bangalore Rural,,143023,,,,,,,INC
+32,Channapatna,GEN,Bangalore Rural,80677,,,96592,,,,,
+33,Govindarajanagar,GEN,Bangalore South,69618,82134,,,,,,,INC
+34,Vijayanagar,GEN,Bangalore South,72833,80157,,,,,,,INC
+35,Chickpet,GEN,Bangalore South,57299,45186,,,,,,,
+36,Basavanagudi,GEN,Bangalore South,78854,,,,,,,,BJP
+37,Padmanabanagar,GEN,Bangalore South,98750,43575,,,,,,,BJP
+38,B.T.M Layout,GEN,Bangalore South,59335,68557,,,,,,,INC
+39,Jayanagar,GEN,Bangalore South,57797,57781,,,,,,,
+40,Bommanahalli,GEN,Bangalore South,113574,89359,,,,,,,BJP
+41,Arabhavi,GEN,Belgaum,115402,,,,,,,43862,BJP
+42,Gokak,GEN,Belgaum,105313,79901,,,,,,,BJP
+43,Belgaum Uttar,GEN,Belgaum,64953,69184,,,,,,,
+44,Belgaum Dakshin,GEN,Belgaum,77094,,,,,,,64786,
+45,Belgaum Rural,GEN,Belgaum,51603,107619,,,,,,41500,INC
+46,Bailahongal,GEN,Belgaum,55630,58408,,,,,,,
+47,Saundatti Yellamma,GEN,Belgaum,56529,71224,,30857,,,,,
+48,Ramdurg,GEN,Belgaum,68564,80294,,,,,,,INC
+49,Hadagali,SC,Bellary,73200,71756,,,,,,,
+50,Hagaribommanahalli,SC,Bellary,,72679,,84023,,,,,
+51,Vijayanagara,GEN,Bellary,71140,104863,,,,,,,INC
+52,Kampli,ST,Bellary,76333,100424,,,,,,,INC
+53,Bellary,ST,Bellary,74536,103836,,,,,,,INC
+54,Bellary City,GEN,Bellary,37155,86440,,,48577,,,,
+55,Sandur,ST,Bellary,49701,85223,,,31375,,,,
+56,Kudligi,ST,Bellary,50403,104753,,,,,,,INC
+57,Chincholi,SC,Bidar,69963,69105,,,,,,,
+58,Aland,GEN,Bidar,79160,89508,,,,,,,INC
+59,Basavakalyan,GEN,Bidar,92920,78505,,,,,,,BJP
+60,Humnabad,GEN,Bidar,75515,73921,,,,,,,
+61,Bidar South,GEN,Bidar,49872,48609,,31374,,,,,
+62,Bidar,GEN,Bidar,,69165,,58385,,,,,
+63,Bhalki,GEN,Bidar,71754,99451,,,,,,,INC
+64,Aurad,SC,Bidar,81382,71813,,,,,,,BJP
+65,Muddebihal,GEN,Bijapur,71846,79483,,,,,,,INC
+66,Devara Hippargi,GEN,Bijapur,45777,33673,,65952,,,,,
+67,Basavana Bagevadi,GEN,Bijapur,43263,68126,,40197,,,,,
+68,Babaleshwar,GEN,Bijapur,78707,93923,,,,,,,INC
+69,Bijapur City,GEN,Bijapur,94211,85978,,,,,,,BJP
+70,Nagthan,SC,Bijapur,48175,78990,,34114,,,,,
+71,Indi,GEN,Bijapur,39862,71785,,61456,,,,,
+72,Sindgi,GEN,Bijapur,79813,87621,,,,,,,INC
+73,Heggadadevankote,ST,Chamarajanagar,49420,84359,,43519,,,,,
+74,Nanjangud,SC,Chamarajanagar,61518,109125,,,,,,,INC
+75,Varuna,GEN,Chamarajanagar,73653,119816,,,,,,,INC
+76,T. Narasipur,SC,Chamarajanagar,,77884,,59265,,,,,
+77,Hanur,GEN,Chamarajanagar,35870,57978,,75632,,,,,
+78,Kollegal,SC,Chamarajanagar,48844,108363,,,,,,,INC
+79,Chamarajanagar,GEN,Chamarajanagar,76325,83858,,,,,,,
+80,Gundlupet,GEN,Chamarajanagar,71119,107794,,,,,,,INC
+81,Gauribidanur,GEN,Chikkballapur,,46551,,,,,,83837,
+82,Bagepalli,GEN,Chikkballapur,62949,82128,,,,,,,
+83,Chikkaballapur,GEN,Chikkballapur,75582,86224,,,,,,,
+84,Yelahanka,GEN,Chikkballapur,141538,77428,,44491,,,,,BJP
+85,Hosakote,GEN,Chikkballapur,102145,107220,,,,,,,INC
+86,Devanahalli,SC,Chikkballapur,34401,73058,,68427,,,,,
+87,Doddaballapur,GEN,Chikkballapur,85144,53391,,39280,,,,,
+88,Nelamangala,SC,Chikkballapur,30582,84229,,52251,,,,,
+89,Nippani,GEN,Chikkodi,73348,44107,66056,,,,,,
+90,Chikkodi-Sadalga,GEN,Chikkodi,49840,128349,,,,,,,INC
+91,Athani,GEN,Chikkodi,55282,131404,,,,,,,INC
+92,Kagwad,GEN,Chikkodi,74560,83387,,,,,,,INC
+93,Kudachi,SC,Chikkodi,60078,85321,,,,,,,INC
+94,Raybag,SC,Chikkodi,57500,,,,,,,54930,
+95,Hukkeri,GEN,Chikkodi,103574,61023,,,,,,,BJP
+96,Yemkanamardi,ST,Chikkodi,43079,100290,,,,,,,INC
+97,Molakalmuru,ST,Chitradurga,87310,109459,,,,,,,INC
+98,Challakere,ST,Chitradurga,,67952,,51502,,,,,
+99,Chitradurga,GEN,Chitradurga,68721,122021,,,,,,,INC
+100,Hiriyur,GEN,Chitradurga,61728,92050,,,,,,,
+101,Hosadurga,GEN,Chitradurga,48234,81050,,,,,,,
+102,Holalkere,SC,Chitradurga,88732,83050,,,,,,,
+103,Sira,GEN,Chitradurga,42329,86084,,56834,,,,,
+104,Pavagada,SC,Chitradurga,,83062,,72181,,,,,INC
+105,Belthangady,GEN,Dakshina Kannada,101004,82788,,,,,,,BJP
+106,Moodabidri,GEN,Dakshina Kannada,86925,64457,,,,,,,BJP
+107,Mangalore City North,GEN,Dakshina Kannada,103531,70609,,,,,,,BJP
+108,Mangalore City South,GEN,Dakshina Kannada,91437,67475,,,,,,,BJP
+109,Mangalore,GEN,Dakshina Kannada,60429,83219,,,,,,,INC
+110,Bantwal,GEN,Dakshina Kannada,93324,85042,,,,,,,BJP
+111,Puttur,GEN,Dakshina Kannada,37558,66607,,,,,,62458,
+112,Sullia,SC,Dakshina Kannada,93911,63037,,,,,,,BJP
+113,Jagalur,ST,Davanagere,49891,50765,,,,,,49442,
+114,Harapanahalli,GEN,Davanagere,56349,44988,,,,,,70194,
+115,Harihar,GEN,Davanagere,63924,59620,40580,,,,,,
+116,Davanagere North,GEN,Davanagere,69547,94019,,,,,,,INC
+117,Davanagere South,GEN,Davanagere,56410,84298,,,,,,,INC
+118,Mayakonda,SC,Davanagere,34630,70916,,,,,,37614,
+119,Channagiri,GEN,Davanagere,,78263,,,,,,61828,
+120,Honnali,GEN,Davanagere,74832,92392,,,,,,,INC
+121,Navalgund,GEN,Dharwad,63882,86081,,,,,,,
+122,Kundgol,GEN,Dharwad,76105,40765,,,,,,30425,
+123,Dharwad,GEN,Dharwad,71296,89333,,,,,,,INC
+124,Hubli-Dharwad-East,SC,Dharwad,53056,85426,,,,,,,INC
+125,Hubli-Dharwad-Central,GEN,Dharwad,95064,60775,,,,,,,BJP
+126,Hubli-Dharwad-West,GEN,Dharwad,101410,62717,,,,,,,BJP
+127,Kalaghatgi,GEN,Dharwad,71404,85761,,,,,,,INC
+128,Shiggaon,GEN,Dharwad,100016,64038,,,,,,,BJP
+129,Afzalpur,GEN,Gulbarga,31394,56313,,,,,,51719,
+130,Jevargi,GEN,Gulbarga,,70810,,60532,,,,,
+131,Gurmitkal,GEN,Gulbarga,,69718,,72297,,,,,
+132,Chittapur,SC,Gulbarga,67683,81232,,,,,,,INC
+133,Sedam,GEN,Gulbarga,49816,93377,,,,,,,INC
+134,Gulbarga Rural,SC,Gulbarga,84466,71839,,,,,,,BJP
+135,Gulbarga Dakshin,GEN,Gulbarga,66297,87345,,,,,,,INC
+136,Gulbarga Uttar,GEN,Gulbarga,78261,80973,,,,,,,
+137,Kadur,GEN,Hassan,63469,75476,,,,,,,
+138,Shravanabelagola,GEN,Hassan,,79023,,85668,,,,,
+139,Arsikere,GEN,Hassan,,98375,,78198,,,,,INC
+140,Belur,GEN,Hassan,63571,55835,,38893,,,,,
+141,Hassan,GEN,Hassan,77322,,,85176,,,,,JD(S)
+142,Holenarasipur,GEN,Hassan,,84951,,88103,,,,,
+143,Arakalgud,GEN,Hassan,,35947,,74643,,,,55038,
+144,Sakaleshpur,SC,Hassan,58604,42811,,56548,,,,,
+145,Shirahatti,SC,Haveri,74489,34791,,,,,,45969,
+146,Gadag,GEN,Haveri,74828,89958,,,,,,,INC
+147,Ron,GEN,Haveri,70177,94865,,,,,,,INC
+148,Hangal,GEN,Haveri,72645,94590,,,,,,,INC
+149,Haveri,SC,Haveri,81912,93827,,,,,,,INC
+150,Byadgi,GEN,Haveri,73899,97740,,,,,,,INC
+151,Hirekerur,GEN,Haveri,70358,85378,,,,,,,INC
+152,Ranebennur,GEN,Haveri,62030,71830,37559,,,,,,
+153,Sidlaghatta,GEN,Kolar,,36157,,68932,,,,52160,
+154,Chintamani,GEN,Kolar,,97324,,68272,,,,,INC
+155,Srinivasapur,GEN,Kolar,,85020,,95463,,,,,JD(S)
+156,Mulbagal,SC,Kolar,,67986,,94254,,,,,JD(S)
+157,Kolar Gold Field,SC,Kolar,31102,81569,,,,,,,INC
+158,Bangarapet,SC,Kolar,,77292,,72581,,,,,
+159,Kolar,GEN,Kolar,50914,83990,,53229,,,,,
+160,Malur,GEN,Kolar,50707,50955,,,,,,49362,
+161,Sindhanur,GEN,Koppal,51703,73645,,43461,,,,,
+162,Maski,ST,Koppal,66513,79566,,,,,,,INC
+163,Kushtagi,GEN,Koppal,92915,83269,,,,,,,BJP
+164,Kanakagiri,SC,Koppal,63653,106164,,,,,,,INC
+165,Gangavathi,GEN,Koppal,66213,57947,,,,,,,
+166,Yelburga,GEN,Koppal,77149,94330,,,,,,,INC
+167,Koppal,GEN,Koppal,54170,90430,,45369,,,,,
+168,Siraguppa,ST,Koppal,53830,90862,,,,,,,INC
+169,Malavalli,SC,Mandya,,106498,,59652,,,,,INC
+170,Maddur,GEN,Mandya,,87019,,62906,,,,,
+171,Melukote,GEN,Mandya,,,,80289,,91151,,,SKP
+172,Mandya,GEN,Mandya,30661,61411,,59392,,,,,
+173,Shrirangapattana,GEN,Mandya,42306,72817,,61680,,,,,
+174,Nagamangala,GEN,Mandya,,90634,,86220,,,,,
+175,Krishnarajpet,GEN,Mandya,,58302,,80646,,,,,
+176,Krishnarajanagara,GEN,Mandya,,104502,,78863,,,,,INC
+177,Madikeri,GEN,Mysore,80477,84879,,,,,,,
+178,Virajpet,GEN,Mysore,79500,83791,,,,,,,INC
+179,Piriyapatna,GEN,Mysore,,85944,,66269,,,,,INC
+180,Hunsur,GEN,Mysore,,92254,,94666,,,,,
+181,Chamundeshwari,GEN,Mysore,51318,79373,,104873,,,,,
+182,Krishnaraja,GEN,Mysore,73670,66457,,,,,,,
+183,Chamaraja,GEN,Mysore,68837,72931,,,,,,,
+184,Narasimharaja,GEN,Mysore,52360,83480,,,,,41037,,
+185,Shorapur,ST,Raichur,88336,113559,,,,,,,INC
+186,Shahapur,GEN,Raichur,52326,78353,,30396,,,,,
+187,Yadgir,GEN,Raichur,50129,53802,,,,,,36838,
+188,Raichur Rural,ST,Raichur,75283,89140,,,,,,,INC
+189,Raichur,GEN,Raichur,69655,65923,,,,,,,
+190,Manvi,ST,Raichur,59203,66922,,,,,,,
+191,Devadurga,ST,Raichur,65288,,,99544,,,,,JD(S)
+192,Lingsugur,SC,Raichur,58769,55960,,41322,,,,,
+193,Shimoga Rural,SC,Shimoga,71198,,,86340,,,,,
+194,Bhadravathi,GEN,Shimoga,,66208,,63503,,,,,
+195,Shimoga,GEN,Shimoga,96490,68816,,,,,,,BJP
+196,Tirthahalli,GEN,Shimoga,84563,72322,,,,,,,BJP
+197,Shikaripura,GEN,Shimoga,81810,,,,,,,70802,
+198,Sorab,GEN,Shimoga,54650,98912,,,,,,,INC
+199,Sagar,GEN,Shimoga,72966,88988,,,,,,,INC
+200,Baindur,GEN,Shimoga,98628,82475,,,,,,,BJP
+201,Chikknayakanhalli,GEN,Tumkur,60994,50996,,71036,,,,,
+202,Tiptur,GEN,Tumkur,54347,71999,,,,,,,
+203,Turuvekere,GEN,Tumkur,58240,30536,,68163,,,,,
+204,Tumkur City,GEN,Tumkur,59165,46900,,55967,,,,,
+205,Tumkur Rural,GEN,Tumkur,89191,,,84597,,,,,
+206,Koratagere,SC,Tumkur,,79099,,64752,,,,,
+207,Gubbi,GEN,Tumkur,51979,60520,,43046,,,,,
+208,Madhugiri,GEN,Tumkur,,91166,,55643,,,,,INC
+209,Kundapur,GEN,Udupi Chikmagalur,102424,60868,,,,,,,BJP
+210,Udupi,GEN,Udupi Chikmagalur,97079,64303,,,,,,,BJP
+211,Kaup,GEN,Udupi Chikmagalur,80559,67555,,,,,,,BJP
+212,Karkala,GEN,Udupi Chikmagalur,77028,72426,,,,,,,
+213,Sringeri,GEN,Udupi Chikmagalur,58970,59171,,,,,,,
+214,Mudigere,SC,Udupi Chikmagalur,50121,50843,,,,,,,
+215,Chickamagalur,GEN,Udupi Chikmagalur,79128,85054,,,,,,,INC
+216,Tarikere,GEN,Udupi Chikmagalur,50955,63086,,,,,,,
+217,Khanapur,GEN,Uttara Kannada,91834,37205,,,,,,,BJP
+218,Kittur,GEN,Uttara Kannada,74543,77536,,,,,,,
+219,Haliyal,GEN,Uttara Kannada,53617,57240,,,,,,,
+220,Karwar,GEN,Uttara Kannada,75307,77445,,,,,,,
+221,Kumta,GEN,Uttara Kannada,59965,,,59289,,,,,
+222,Bhatkal,GEN,Uttara Kannada,67771,100442,,,,,,,INC
+223,Sirsi,GEN,Uttara Kannada,68175,76887,,,,,,,
+224,Yellapur,GEN,Uttara Kannada,74699,70695,,,,,,,BJP

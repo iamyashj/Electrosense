@@ -1,0 +1,91 @@
+Index,Assembly_Seat,Seat_Type,Constituency_Name,BJP,INC,BSP,INLD,JJP,LSP,SAD,HLP,Independent,Strong_Party
+1,Kalka,GEN,Ambala ,52017,57948,,,,,,,,
+2,Panchkula,GEN,Ambala ,61537,55904,,,,,,,,
+3,Naraingarh,GEN,Ambala ,32870,53470,,,,,,,,
+4,Ambala Cantt.,GEN,Ambala ,64571,,,,,,,,44406,
+5,Ambala City,GEN,Ambala ,64896,,,,,,,,55944,
+6,Mulana ,SC,Ambala ,65363,67051,,,,,,,,
+7,Sadhaura ,SC,Ambala ,48786,65806,,,,,,,,
+8,Jagadhri,GEN,Ambala ,66376,50003,47988,,,,,,,
+9,Yamunanagar,GEN,Ambala ,64848,,,63393,,,,,,
+10,Loharu,GEN,Bhiwani–Mahendragarh,61365,43688,,,,,,,,
+11,Badhra,GEN,Bhiwani–Mahendragarh,33169,39234,,,52938,,,,,
+12,Dadri,GEN,Bhiwani–Mahendragarh,,,,,29577,,,,43849,
+13,Bhiwani,GEN,Bhiwani–Mahendragarh,61704,,,,,,,,,
+14,Tosham,GEN,Bhiwani–Mahendragarh,54640,72699,,,,,,,,
+15,Ateli,GEN,Bhiwani–Mahendragarh,55793,,37387,,,,,,,
+16,Mahendragarh,GEN,Bhiwani–Mahendragarh,36258,46478,,,,,,,33077,
+17,Narnaul,GEN,Bhiwani–Mahendragarh,42732,,,,28017,,,,,
+18,Nangal Chaudhry,GEN,Bhiwani–Mahendragarh,55529,,,,34914,,,,,
+19,Hathin,GEN,Faridabad,46744,43857,,,,,,,,
+20,Hodal ,SC,Faridabad,55864,52477,,,,,,,,
+21,Palwal,GEN,Faridabad,89426,61130,,,,,,,,BJP
+22,Prithla,GEN,Faridabad,,48196,,,,,,,64625,
+23,Faridabad NIT,GEN,Faridabad,58455,61697,,,,,,,,
+24,Badkhal,GEN,Faridabad,58550,56005,,,,,,,,
+25,Ballabgarh,GEN,Faridabad,66708,,,,,,,,,BJP
+26,Faridabad,GEN,Faridabad,65887,44174,,,,,,,,BJP
+27,Tigaon,GEN,Faridabad,97126,63285,,,,,,,,BJP
+28,Bawal ,SC,Gurgaon,69049,36804,,,,,,,,
+29,Rewari,GEN,Gurgaon,42553,43870,,,,,,,36778,
+30,Pataudi ,SC,Gurgaon,60633,,,,,,,,,
+31,Badshahpur,GEN,Gurgaon,96641,,,,,,,,106798,
+32,Gurgaon,GEN,Gurgaon,81953,,,,,,,,48638,
+33,Sohna,GEN,Gurgaon,59117,,39868,,46664,,,,,
+34,Nuh,GEN,Gurgaon,48273,52311,,,,,,,,
+35,Ferozepur Jhirka,GEN,Gurgaon,47542,84546,,,,,,,,INC
+36,Punahana,GEN,Gurgaon,,35092,,,,,,,34092,
+37,Uchana Kalan,GEN,Hisar,45052,,,,92504,,,,,JJP
+38,Adampur,GEN,Hisar,67492,51752,,,,,,,,BJP
+39,Uklana ,SC,Hisar,41676,,,,65369,,,,,
+40,Narnaund,GEN,Hisar,61406,,,,73435,,,,,
+41,Hansi,GEN,Hisar,53191,,,,30931,,,,,
+42,Barwala,GEN,Hisar,41960,,,,45868,,,,,
+43,Hisar,GEN,Hisar,49675,33843,,,,,,,,BJP
+44,Nalwa,GEN,Hisar,47523,37851,,,,,,,,
+45,Bawani Khera ,SC,Hisar,52387,41492,,,,,,,,
+46,Nilokheri ,SC,Karnal,40757,,,,,,,,42979,
+47,Indri,GEN,Karnal,54221,,,,,,,,46790,
+48,Karnal,GEN,Karnal,79906,,,,,,,,,BJP
+49,Gharaunda,GEN,Karnal,67209,49807,,,,,,,,
+50,Assandh,GEN,Karnal,28518,32114,30411,,,,,,,
+51,Panipat Rural,GEN,Karnal,67086,,,,45125,,,,,
+52,Panipat City,GEN,Karnal,76863,37318,,,,,,,,BJP
+53,Israna ,SC,Karnal,41376,61376,,,,,,,,
+54,Samalkha,GEN,Karnal,66956,81898,,,,,,,,INC
+55,Radaur,GEN,Kurukshetra,51546,54087,,,,,,,,
+56,Ladwa,GEN,Kurukshetra,45028,57665,,,,,,,,
+57,Shahbad ,SC,Kurukshetra,,,,,69233,,,,,JJP
+58,Thanesar,GEN,Kurukshetra,55759,54917,,,,,,,,
+59,Pehowa,GEN,Kurukshetra,42613,37299,,,,,,,,
+60,Guhla ,SC,Kurukshetra,,31944,,,36518,,,,,
+61,Kalayat,GEN,Kurukshetra,53805,44831,,,37425,,,,,
+62,Kaithal,GEN,Kurukshetra,72664,71418,,,,,,,,
+63,Pundri,GEN,Kurukshetra,,28184,,,,,,,41008,
+64,Meham,GEN,Rohtak,36106,37371,,,,,,,49418,
+65,Garhi Sampla-Kiloi,GEN,Rohtak,,97755,,,,,,,,INC
+66,Rohtak,GEN,Rohtak,47702,50437,,,,,,,,
+67,Kalanaur ,SC,Rohtak,51527,62151,,,,,,,,
+68,Bahadurgarh,GEN,Rohtak,40334,55825,,,,,,,,
+69,Badli,GEN,Rohtak,34196,45441,,,,,,,,
+70,Jhajjar ,SC,Rohtak,31481,46480,,,,,,,,
+71,Beri,GEN,Rohtak,33070,46022,,,,,,,,
+72,Kosli,GEN,Rohtak,78813,40189,,,,,,,,BJP
+73,Narwana ,SC,Sirsa ,48886,,,,79578,,,,,JJP
+74,Tohana,GEN,Sirsa ,48450,,,,100752,,,,,JJP
+75,Fatehabad,GEN,Sirsa ,77369,,,,74069,,,,,
+76,Ratia ,SC,Sirsa ,55160,53944,,,,,,,,
+77,Kalanwali ,SC,Sirsa ,,53059,,,,,33816,,,
+78,Dabwali,GEN,Sirsa ,51238,66885,,,,,,,,
+79,Rania,GEN,Sirsa ,,,,,,,,34394,53825,
+80,Sirsa,GEN,Sirsa ,,,,,,,,44915,44313,
+81,Ellenabad,GEN,Sirsa ,59253,,,65992,,,,,,
+82,Ganaur,GEN,Sonipat,57830,47550,,,,,,,,
+83,Rai,GEN,Sonipat,45377,42715,,,,,,,,
+84,Kharkhauda ,SC,Sonipat,,38577,,,37033,,,,,
+85,Sonipat,GEN,Sonipat,46560,79438,,,,,,,,INC
+86,Gohana,GEN,Sonipat,,39531,,,,35379,,,,
+87,Baroda,GEN,Sonipat,50070,66636,,,,,,,,
+88,Julana,GEN,Sonipat,37749,,,,61492,,,,,
+89,Safidon,GEN,Sonipat,53810,57468,,,,,,,,
+90,Jind,GEN,Sonipat,58370,,,,45862,,,,,
