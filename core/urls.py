@@ -29,6 +29,7 @@ urlpatterns = [
     path("register/",register_page),
     path("home_prediction/",home_prediction,),
     path("prediction/",prediction),
+    path("summary/",summary),
     
 ]
 
