@@ -2,7 +2,7 @@
 
 {% block start %}
 
-
+<a href="http://127.0.0.1:8000/summary" class="btn btn-primary btn-lg w-10 ">INDIA Loksabha Summary</a>
 <form  action="http://127.0.0.1:8000/prediction/" method="post" enctype="multipart/form-data">
   {% csrf_token %}
  
@@ -11,7 +11,7 @@
     <label for="inputState" class="form-label">State</label>
     <select  required name="state" id="inputState" class="form-select">
       <option selected>Choose...</option>
-      <option > Maharashtra</option>
+      <option >Maharashtra</option>
       <option>Karnataka</option>
       <option >Madhya_Pradesh</option>
       <option >Rajasthan</option>
@@ -23,10 +23,9 @@
       <option >Punjab</option>
       <option >Haryana</option>
       <option >Himachal_Pradesh</option>
-      
-      <option >West_Bangal</option>
-      <option >Telegana</option>
-      <option >TamilNadu</option>
+      <option >West_Bengal</option>
+      <option >Telangana</option>
+      <option >Tamil_Nadu</option>
       <option >Kerala</option>
       <option >Jharkhand</option>
       <option >Goa</option>
@@ -36,16 +35,22 @@
       <option >Mizoram</option>
       <option >Tripura</option>
       <option >Manipur</option>
-      <option >Meghalay</option>
+      <option >Meghalaya</option>
       <option >Andhra_Pradesh</option>
       <option >Arunachal_Pradesh</option>
       <option >Jammu_and_kashmir</option>
+      <option>Andaman_and_Nicobar</option>
+      <option>Uttar_Pradesh</option>
+      <option>Chandigarh</option>
+      <option>Daman_and_Diu</option>
+      <option>Uttarakhand</option>
+      <option>Lakshadweep</option>
     </select>
 </div>
 
 <div class="container">
 <div class="row flex-container">
-<div class="col-6 mb-2">
+<div class="col-4 mb-2">
   
 <div class="card" style="width:50%;">
   <div class="card-header text-center">
@@ -66,19 +71,95 @@
     </label>
   </div>
   <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="TMP"  name="NDA" id="flexCheckChecked" title="Tipra Motha Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Tipra Motha Party">
+      TMP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="NDPP"  name="NDA" id="flexCheckChecked" title="Nationalist Democratic Progressive Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Nationalist Democratic Progressive Party">
+      NDPP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="TDP"  name="NDA" id="flexCheckChecked" title="Telugu Desam Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Telugu Desam Party">
+      TDP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="SKM"  name="NDA" id="flexCheckChecked" title="Sikkim Krantikari Morcha" >
+    <label class="form-check-label" for="flexCheckChecked" title="Sikkim Krantikari Morcha">
+      SKM
+    </label>
+  </div>
+  
+  
+  <div class="form-check">
     <input class="form-check-input" type="checkbox" value="Shivsena"  name="NDA" id="flexCheckChecked" title="Shivsena" >
     <label class="form-check-label" for="flexCheckChecked" title="Shivsena">
       shivsena
     </label>
   </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="NCP"  name="NDA" id="flexCheckChecked" title="NCP" >
+    <label class="form-check-label" for="flexCheckChecked" title="Nationalist Congress Party(AjitPawar)">
+      NCP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="JDU" name="NDA" id="flexCheckChecked" title="Janata Dal (United)" >
+    <label class="form-check-label" for="flexCheckChecked" title="Janata Dal (United)">
+      JDU
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="LJP" name="NDA" id="flexCheckChecked" title="Lok Janshakti Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Lok Janshakti Party">
+      LJP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="HAM" name="NDA" id="flexCheckChecked" title="Hindustani Awam Morcha" >
+    <label class="form-check-label" for="flexCheckChecked" title="Hindustani Awam Morcha">
+      HAM
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="JJP" name="NDA" id="flexCheckChecked" title="Jannayak Janta Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Jannayak Janta Party">
+      JJP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="RLD" name="NDA" id="flexCheckChecked" title="Rashtriya Lok Dal" >
+    <label class="form-check-label" for="flexCheckChecked" title="Rashtriya Lok Dal">
+      RLD
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="AD" name="NDA" id="flexCheckChecked" title="Apna Dal" >
+    <label class="form-check-label" for="flexCheckChecked" title="Apna Dal">
+      AD
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="SBSP" name="NDA" id="flexCheckChecked" title="Suheldev Bharatiya Samaj Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Suheldev Bharatiya Samaj Party">
+      SBSP
+    </label>
+  </div>
+  
+  
   
 </div>
 </div>
 </div>
-<div class="col-6 mb-2 ">
+<div class="col-4 mb-2 ">
 <div class="card " style="width:50%;" >
 <div class="card-header text-center">
-    UPA
+    INDIA
   </div>
   <div class="card-body">
   <div class="form-check">
@@ -96,23 +177,140 @@
     </label>
   </div>
   <div class="form-check">
-    <input class="form-check-input" type="checkbox" value="AAP" id="flexCheckChecked" name="INDIA" title="All India United Democratic Front" >
-    <label class="form-check-label" for="flexCheckChecked" title="All India United Democratic Front">
-      AIUDF
+    <input class="form-check-input" type="checkbox" value="NC" id="flexCheckChecked" name="INDIA" title="Jammu & Kashmir National Conference" >
+    <label class="form-check-label" for="flexCheckChecked" title="Jammu & Kashmir National Conference">
+      NC
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="RJD" id="flexCheckChecked" name="INDIA" title="Rashtriya Janata Dal" >
+    <label class="form-check-label" for="flexCheckChecked" title="Rashtriya Janata Dal">
+      RJD
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="JMM" id="flexCheckChecked" name="INDIA" title="Jharkhand Mukti Morcha" >
+    <label class="form-check-label" for="flexCheckChecked" title="Jharkhand Mukti Morcha">
+      JMM
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="SP" id="flexCheckChecked" name="INDIA" title="Samajwadi Party" >
+    <label class="form-check-label" for="flexCheckChecked" title="Samajwadi Party">
+      SP
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="CPI" id="flexCheckChecked" name="INDIA" title="Communist Party of India" >
+    <label class="form-check-label" for="flexCheckChecked" title="Communist Party of India ">
+      CPI
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="CPM"id="flexCheckChecked" name="INDIA" title="Communist Party of India (Marxist)" >
+    <label class="form-check-label" for="flexCheckChecked" title="Communist Party of India (Marxist)">
+      CPM
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="DMK" id="flexCheckChecked" name="INDIA" title="Dravida Munnetra Kazhagam" >
+    <label class="form-check-label" for="flexCheckChecked" title="Dravida Munnetra Kazhagam">
+      DMK
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="UBT" id="flexCheckChecked" name="INDIA" title="Shiv Sena (Uddhav Balasaheb Thackeray)" >
+    <label class="form-check-label" for="flexCheckChecked" title="Shiv Sena (Uddhav Balasaheb Thackeray)">
+      UBT
+    </label>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" value="Sharad_Pawar" id="flexCheckChecked" name="INDIA" title="Nationalist Congress Party (Sharadchandra Pawar)" >
+    <label class="form-check-label" for="flexCheckChecked" title="Nationalist Congress Party (Sharadchandra Pawar)">
+      NCP(SharadPawar)
     </label>
   </div>
 
 </div>
 </div>
 </div>
+<div class="col-4 mb-2 ">
+  <div class="card " style="width:50%;" >
+  <div class="card-header text-center">
+      Other
+    </div>
+    <div class="card-body">
+    <div class="form-check">
+      <input class="form-check-input"  name="Other" type="checkbox" value="TMC" id="flexCheckDefault" title="Trinamool Congress" >
+      <label class="form-check-label" for="flexCheckDefault" title="Trinamool Congress">
+        TMC
+      </label>
+    </div>
+   
+      <div class="form-check">
+        <input class="form-check-input"  name="Other" type="checkbox" value="BSP" id="flexCheckDefault" title="Bahujan Samaj Party" >
+        <label class="form-check-label" for="flexCheckDefault" title="Bahujan Samaj Party">
+          BSP
+        </label>
+      </div>
+     
+        <div class="form-check">
+          <input class="form-check-input"  name="Other" type="checkbox" value="YSRCP" id="flexCheckDefault" title="Yuvajana Shramika Rythu Congress Party" >
+          <label class="form-check-label" for="flexCheckDefault" title="Yuvajana Shramika Rythu Congress Party">
+            YSRCP
+          </label>
+        </div>
+       
+          <div class="form-check">
+            <input class="form-check-input"  name="Other" type="checkbox" value="AIADMK" id="flexCheckDefault" title="All India Anna Dravida Munnetra Kazhagam" >
+            <label class="form-check-label" for="flexCheckDefault" title="All India Anna Dravida Munnetra Kazhagam">
+              AIADMK
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input"  name="Other" type="checkbox" value="BRS" id="flexCheckDefault" title="Bharat Rashtra Samithi" >
+            <label class="form-check-label" for="flexCheckDefault" title="Bharat Rashtra Samithi">
+              BRS
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="BJD"  name="Other" id="flexCheckChecked" title="Biju Janta Dal" >
+            <label class="form-check-label" for="flexCheckChecked" title="Biju Janta Dal">
+              BJD
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="VBA"  name="Other" id="flexCheckChecked" title="Vanchit Bahujan Aaghadi" >
+            <label class="form-check-label" for="flexCheckChecked" title="Vanchit Bahujan Aaghadi">
+              VBA
+            </label>
+          </div>
+          
+        
+        
+        
+      
+      
+      
+    
+    
+    
+    
+   
+    
+    
+  
+  </div>
+  </div>
+  </div>
 </div>
 </div>
 <div class="col-4 mx-auto">
-  <button  class="btn btn-primary btn-lg w-10 " type="submit">Predict</button>
+  <button  class="btn btn-primary btn-lg w-10 " type="submit" >Predict</button>
 </div>
 </div>
 </form>
-{% if messages %}
+{% comment %} {% if messages %}
 <ul class="messages">
     <div class="alert alert-primary" role="alert">
         {% for message in messages %}
@@ -121,7 +319,13 @@
       </div>
     
 </ul>
-{% endif %}
+{% endif %} {% endcomment %}
+<script>
+  {% for msg in messages%}
+
+  swal("Error",'{{msg}}',"error");
+  {% endfor %}
+</script>
 
 
 {% endblock start %}

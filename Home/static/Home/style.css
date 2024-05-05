@@ -21,4 +21,10 @@
     font-family: 'Outfit', sans-serif;
     font-size: 100% ;
   }
-
+ .navbar-brand,.navbar{
+    color:aliceblue;
+    background-color: black;
+  }
+  
+  
+  

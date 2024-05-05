@@ -4,12 +4,14 @@
     <h1>LOGIN</h1>
     
      {% csrf_token %}
+
      
-     {% if request.user.is_authenticated %}
+     
+     {% comment %} {% if request.user.is_authenticated %} {% endcomment %}
       
      
       
-     {% if messages %}
+     {% comment %} {% if messages %}
      <ul class="messages">
          <div class="alert alert-primary" role="alert">
              {% for message in messages %}
@@ -18,8 +20,9 @@
            </div>
          
      </ul>
-     {% endif %}
-     {% endif %}
+     {% endif %} {% endcomment %}
+     {% comment %} {% endif %} {% endcomment %}
+
      
     <div class="form-group">
       <label for="exampleInputEmail1">User Name</label>
@@ -30,10 +33,16 @@
       <label for="exampleInputPassword1">Password</label>
       <input type="password"  name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
     </div>
-    <p>Don't Have an Account<a href="/register">Register</a><p>
+    <p>Don't Have an Account<a href="/register" class="link-primary">Register</a><p>
     
 
     <button type="submit" class="btn btn-primary">Submit</button>
   </form>
+  <script>
+    {% for msg in messages%}
+
+    swal("Error",'{{msg}}',"error");
+    {% endfor %}
+  </script>
    
 {% endblock %}

@@ -1,0 +1,327 @@
+{% extends 'base.html' %}
+{% load static %}
+{% csrf_token %}
+
+{% block start %}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+   <div class="container pt-5">
+    <table class="table table-dark table-striped">
+        <thead>
+            <th>State</th>
+            <th>Seats</th>
+            <th>NDA Alliance</th>
+            <th>INDIA</th>
+            <th>Other</th>
+            <tbody>
+                
+                <tr>
+                    <td>Andhra_Pradesh</td>
+                    <td>25</td>
+                    <td>3</td>
+                    <td>0</td>
+                    <td>22</td>
+                </tr>
+                <tr>
+                    <td>Arunachal_Pradesh</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Assam</td>
+                    <td>14</td>
+                    <td>11</td>
+                    <td>3</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Bihar</td>
+                    <td>40</td>
+                    <td>19</td>
+                    <td>21</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Chhattisgarh</td>
+                    <td>11</td>
+                    <td>8</td>
+                    <td>3</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Goa</td>
+                    <td>2</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Gujarat</td>
+                    <td>26</td>
+                    <td>25</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Haryana</td>
+                    <td>10</td>
+                    <td>9</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Himachal_Pradesh</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Jharkhand</td>
+                    <td>14</td>
+                    <td>5</td>
+                    <td>9</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Karnataka</td>
+                    <td>28</td>
+                    <td>18</td>
+                    <td>10</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Kerala</td>
+                    <td>20</td>
+                    <td>0</td>
+                    <td>20</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Madhya_Pradesh</td>
+                    <td>29</td>
+                    <td>24</td>
+                    <td>5</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Maharashtra</td>
+                    <td>48</td>
+                    <td>32</td>
+                    <td>16</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Manipur</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Meghalaya</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>2</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Mizoram</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Nagaland</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Odisha</td>
+                    <td>21</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>19</td>
+                </tr>
+                <tr>
+                    <td>Punjab</td>
+                    <td>13</td>
+                    <td>0</td>
+                    <td>13</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Rajasthan</td>
+                    <td>25</td>
+                    <td>15</td>
+                    <td>10</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Sikkim</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Tamil_Nadu</td>
+                    <td>39</td>
+                    <td>0</td>
+                    <td>28</td>
+                    <td>11</td>
+                </tr>
+                <tr>
+                    <td>Telengana</td>
+                    <td>17</td>
+                    <td>1</td>
+                    <td>9</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>Tripura</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Uttarakhand</td>
+                    <td>5</td>
+                    <td>5</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Uttar_Pradesh</td>
+                    <td>80</td>
+                    <td>65</td>
+                    <td>15</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>West_Bengal</td>
+                    <td>42</td>
+                    <td>9</td>
+                    <td>0</td>
+                    <td>33</td>
+                </tr>
+                <tr>
+                    <td>Puducherry</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Chandigarh</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Dadra and Nagar Haveli</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Daman and Diu</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Lakshadweep</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Jammu_and_kashmir</td>
+                    <td>6</td>
+                    <td>3</td>
+                    <td>3</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Delhi</td>
+                    <td>7</td>
+                    <td>0</td>
+                    <td>7</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Andaman_and_Nicobar</td>
+                    <td>1</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Total</td>
+                    <td>543</td>
+                    <td>250</td>
+                    <td>199</td>
+                    <td>94</td>
+                </tr>
+
+            </tbody>
+        </thead>
+    </table>
+   </div>
+ 
+ 
+   
+    <div class="container">
+        <div class="mx-auto container pt-1 " id="chart-container" style="width:50vw;" >
+            <canvas id="myPieChart"></canvas>
+            <p class="text-center">543 Loksabha Seat</p>
+        </div>
+    </div>
+
+      
+    <script>
+        var ctx = document.getElementById('myPieChart').getContext('2d');
+        var myPieChart = new Chart(ctx, {
+            type: 'doughnut',
+            data: {
+                labels:["NDA","INDIA","Other"],
+                datasets: [{
+                    label: '# Total Seats',
+                    data:[250,199,94],
+                    backgroundColor: [
+                        '#F57D1F',
+                        '#387ADF',
+                        '#7F27FF'
+                       
+                    ],
+                    borderColor: [
+                        '#F57D1F',
+                        '#387ADF',
+                        '#7F27FF'
+                        
+                       
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                // Optional configuration options
+            }
+        });
+    </script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+   
+
+    {% endblock start %}
