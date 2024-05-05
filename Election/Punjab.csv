@@ -1,0 +1,14 @@
+Index,Constituency_Name,Seat_Type,BJP,INC,SAD,AAP,Bahujan_Samaj_Party,Lok_Insaaf_Party,Punjab_Ekta_Party,Nawan_Punjab_Party,Strong_Party
+1,amritsar,gen,345406,445032,0,0,0,0,0,0,INC
+2,anandpur_sahib,gen,0,428045,381161,0,146441,0,0,0,INC
+3,bathinda,gen,0,471052,492824,134398,0,0,0,0,SAD
+4,faridkot,sc,0,419065,335809,115319,0,0,0,0,INC
+5,fatehgarh_sahi,sc,0,411651,317753,0,0,142274,0,0,INC
+6,ferozpur,gen,0,434577,633427,0,0,0,0,0,SAD
+7,gurdaspur,gen,558719,476260,0,0,0,0,0,0,BJP
+8,hoshiarpur,sc,421320,372790,0,0,128564,0,0,0,BJP
+9,jalandhar,sc,0,385712,366221,0,204783,0,0,0,INC
+10,khadoor_sahib,gen,0,459710,319137,0,0,0,214489,0,INC
+11,ludhiana,gen,0,383795,299435,0,0,307423,0,0,INC
+12,patiala,gen,0,532027,369309,0,0,0,0,161645,INC
+13,sangrur,gen,0,303350,263498,413561,0,0,0,0,AAP
